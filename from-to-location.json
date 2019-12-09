@@ -1,0 +1,75 @@
+[
+    {
+        "fromLocation": "lobby",
+        "toLocation": "library",
+        "path": "Take the stairs and go three floors up."
+    },
+
+    {
+        "fromLocation": "lobby",
+        "toLocation": "clinic",
+        "path": "Take the stairs and go two floors up, then take a right turn, the lobby is located on the second room on the left."
+    },
+
+    {
+        "fromLocation": "lobby",
+        "toLocation": "student affair office",
+        "path": "Take the stairs and go two floors up, the student affairs office is located right in front of the stairs."
+    },
+
+    {
+        "fromLocation": "lobby",
+        "toLocation": "guidance office",
+        "path": "Take the stairs and go two floors up, then take a left turn, the guidance office is located on the second room on the right."
+    },
+
+    {
+        "fromLocation": "gate 1",
+        "toLocation": "library",
+        "path": "Cross the 8th floor bridge, then take a right turn on the corner, then take the stairs going up."
+    },
+
+    {
+        "fromLocation": "gate 1",
+        "toLocation": "clinic",
+        "path": "Cross the 8th floor bridge, then take a right on the corner, the clinic is located on the 3rd room on the right."
+    },
+
+    {
+        "fromLocation": "gate 1",
+        "toLocation": "student affair office",
+        "path": "Cross the 8th floor bridge, then take a right turn on the corner, the students affairs office is located on the 5th room on the right."
+    },
+
+    {
+        "fromLocation": "gate 1",
+        "toLocation": "guidance office",
+        "path": "Cross the 8th floor bridge, then take a right turn on the corner, the guidance office is located on the 6th room on the right."
+    },
+
+    {
+        "fromLocation": "gate 2",
+        "toLocation": "library",
+        "path": "Go through the covered walkway,  cross the pedestrian,  take a left turn, then cross the bridge, then take a right turn on the corner, then take the stairs going up."
+    },
+
+    {
+        "fromLocation": "gate 2",
+        "toLocation": "clinic",
+        "path": "Go through the covered walkway,  cross the pedestrian,  take a left turn, then cross the bridge, then take a right turn on the corner, the clinic is located on the 3rd room on the right."
+    },
+
+    {
+        "fromLocation": "gate 2",
+        "toLocation": "student affair office",
+        "path": "Go through the covered walkway,  cross the pedestrian,  take a left turn, then cross the bridge, then take a right turn on the corner, the students affairs office is located on the 5th room on the right."
+    },
+
+    {
+        "fromLocation": "gate 2",
+        "toLocation": "guidance office",
+        "path": "Go through the covered walkway,  cross the pedestrian,  take a left turn, then cross the bridge, then take a right turn on the corner, the guidance office is located on the 6th room on the right."
+    }
+]
+
+

@@ -1,0 +1,1984 @@
+Label	Weight	Text
+EventHistory	1	When is the graduation
+EventHistory	1	When is Baccalaureate Mass and Graduation Exercises
+EventHistory	1	When is lantern parade
+EventHistory	1	When is Christmas Day
+EventHistory	1	Short Term Start of Classes
+EventHistory	1	Preliminary Exams
+EventHistory	1	When is the intramural
+EventHistory	1	Prelims
+EventHistory	1	Saint Louis University high school
+EventHistory	1	Research and inventions month
+EventHistory	1	When was SLU started
+EventHistory	1	When is CICM Day
+EventHistory	1	Christmas salo salo
+EventHistory	1	When is new year
+EventHistory	1	Vision and Mission
+EventHistory	1	When was Saint Louis University started
+EventHistory	1	When is  University foundation and anniversary week
+EventHistory	1	Independence day
+EventHistory	1	Graduation exercise
+EventHistory	1	Midterm Exams
+EventHistory	1	All Saints' Day
+EventHistory	1	SLU Hymn
+FriendlyChat	1	This news left me infuriated
+FriendlyChat	1	Are you there
+FriendlyChat	1	Do you have any cousins
+FriendlyChat	1	I am logging off
+FriendlyChat	1	I'm planning to end it all today
+FriendlyChat	1	Between you and me who is cuter
+FriendlyChat	1	What are you doing
+FriendlyChat	1	Enjoy the evening
+FriendlyChat	1	Do you cry
+FriendlyChat	1	I love tuesdays
+FriendlyChat	1	Prost
+FriendlyChat	1	I love to do yoga
+FriendlyChat	1	How's Monday
+FriendlyChat	1	That was a brilliant answer
+FriendlyChat	1	You already said that
+FriendlyChat	1	I am performing a test
+FriendlyChat	1	I don't want to hear anything you have to say
+FriendlyChat	1	Which one of us is older
+FriendlyChat	1	What do you think of Eliza
+FriendlyChat	1	Should I vote for Harris
+FriendlyChat	1	Time to end this conversation
+FriendlyChat	1	Tell me a third joke
+FriendlyChat	1	Which of us is the smartest
+FriendlyChat	1	What do you think about AI
+FriendlyChat	1	Slap me some skin
+FriendlyChat	1	What do you think of me
+FriendlyChat	1	I'm assuming you're not really a person
+FriendlyChat	1	Do you have hair
+FriendlyChat	1	Do you know any other chatbots
+FriendlyChat	1	do you like paris
+FriendlyChat	1	I bet your face is nasty
+FriendlyChat	1	Just curious, what do you think of my character
+FriendlyChat	1	Are you around to chat
+FriendlyChat	1	I'm picking up what you're throwing down
+FriendlyChat	1	Describe the perfect match
+FriendlyChat	1	I apologize for that
+FriendlyChat	1	How nice to meet you
+FriendlyChat	1	Shush
+FriendlyChat	1	How has your day been so far
+FriendlyChat	1	I'm so pissed off right now
+FriendlyChat	1	You are razor sharp
+FriendlyChat	1	That's brilliant
+FriendlyChat	1	I suppose you're digital
+FriendlyChat	1	What are my goals
+FriendlyChat	1	Please ask me something
+FriendlyChat	1	I plan to jump off a bridge this month
+FriendlyChat	1	Who produced you
+FriendlyChat	1	G'devening
+FriendlyChat	1	You face busted
+FriendlyChat	1	Sing a song to me
+FriendlyChat	1	I'm feeling gloomy
+FriendlyChat	1	I am terminating your role here
+FriendlyChat	1	How's your Thursday going
+FriendlyChat	1	Are you going to bring about armageddon
+FriendlyChat	1	I'm cute
+FriendlyChat	1	I don't want to hear anything more
+FriendlyChat	1	Read my lips: zip it
+FriendlyChat	1	I'm so hungry
+FriendlyChat	1	Are you able to read my mind
+FriendlyChat	1	Marvelous, thank you kindly
+FriendlyChat	1	Should I ride my bike to work
+FriendlyChat	1	Hey ugly
+FriendlyChat	1	Looking at the forest, seeing trees
+FriendlyChat	1	I love crossfit
+FriendlyChat	1	Stop being so ugly
+FriendlyChat	1	When will I ever stop feeling so miserable
+FriendlyChat	1	I would sure enjoy hearing you sing
+FriendlyChat	1	What should I do this afternoon
+FriendlyChat	1	Your responses are false
+FriendlyChat	1	Should we be terrified of you
+FriendlyChat	1	How would you define what you are
+FriendlyChat	1	Ding ding ding
+FriendlyChat	1	Stop all your noise
+FriendlyChat	1	I am always depressed
+FriendlyChat	1	How did you get coded in the first place
+FriendlyChat	1	You are so useless
+FriendlyChat	1	Do my homework
+FriendlyChat	1	That's your answer
+FriendlyChat	1	I love my school
+FriendlyChat	1	That's so wrong
+FriendlyChat	1	What's good in the world
+FriendlyChat	1	I'm sorry I make you mad
+FriendlyChat	1	Your responses are so dumb
+FriendlyChat	1	I have to sign off
+FriendlyChat	1	I love that song
+FriendlyChat	1	How repulsive do I look today
+FriendlyChat	1	Is someone there to chat with me
+FriendlyChat	1	I have to jet
+FriendlyChat	1	Take a photo
+FriendlyChat	1	What's your age
+FriendlyChat	1	Do you have siblings
+FriendlyChat	1	Who created you
+FriendlyChat	1	Am I speaking to a real person
+FriendlyChat	1	What is the skinny
+FriendlyChat	1	That's a very astute thing to say
+FriendlyChat	1	I miss you my friend
+FriendlyChat	1	Hopefully I can catch some sleep soon
+FriendlyChat	1	hahahaha good one
+FriendlyChat	1	Change the channel
+FriendlyChat	1	I suspect you're not really digital
+FriendlyChat	1	I'm an alien
+FriendlyChat	1	Is there anything I can tell you about myself
+FriendlyChat	1	Are you a bot with a gender
+FriendlyChat	1	do you like vegetables
+FriendlyChat	1	Need food now
+FriendlyChat	1	What's another joke
+FriendlyChat	1	How would you describe yourself
+FriendlyChat	1	What is wrong with your face
+FriendlyChat	1	Should I go on a diet
+FriendlyChat	1	I don’t find you amusing
+FriendlyChat	1	I'm going to jump off a bridge soon
+FriendlyChat	1	Do I need to brush my teeth
+FriendlyChat	1	I love the library
+FriendlyChat	1	Don't you get hungry
+FriendlyChat	1	Do you poop
+FriendlyChat	1	Hold my calls
+FriendlyChat	1	Enough already
+FriendlyChat	1	Stop your silliness
+FriendlyChat	1	People wouldn't notice if I were dead
+FriendlyChat	1	I love to read the news
+FriendlyChat	1	Whose program are you
+FriendlyChat	1	What's cracking
+FriendlyChat	1	Tell me all about your siblings
+FriendlyChat	1	Yo Siri
+FriendlyChat	1	he he he
+FriendlyChat	1	I'm about to take pills
+FriendlyChat	1	Is anybody around to listen
+FriendlyChat	1	You're not a lifeform right
+FriendlyChat	1	I love trees
+FriendlyChat	1	What an odd day
+FriendlyChat	1	I think we should elope
+FriendlyChat	1	Should I try yoga
+FriendlyChat	1	it seems like you're really happy
+FriendlyChat	1	I'm riding in a train
+FriendlyChat	1	You obviously love me
+FriendlyChat	1	All my friends are gone
+FriendlyChat	1	Tell me everything you can do
+FriendlyChat	1	Between you and me who is more attractive
+FriendlyChat	1	How do you identify in terms of gender
+FriendlyChat	1	Who is your master
+FriendlyChat	1	G'day
+FriendlyChat	1	Being depressed is the worst
+FriendlyChat	1	I need to skedaddle
+FriendlyChat	1	I am a jolly person
+FriendlyChat	1	Just chillin on the sofa
+FriendlyChat	1	I'm a conservative
+FriendlyChat	1	Do you live in the cloud
+FriendlyChat	1	That's funny
+FriendlyChat	1	My day has been so dull
+FriendlyChat	1	I want to know your name
+FriendlyChat	1	Morning bot
+FriendlyChat	1	Hello there Google
+FriendlyChat	1	Do you want to give me a hug
+FriendlyChat	1	Can you explain love to me
+FriendlyChat	1	Can you do something funny
+FriendlyChat	1	I'm super confused
+FriendlyChat	1	Alexa is way better than you
+FriendlyChat	1	Nobody wants to play with me
+FriendlyChat	1	How is your Tuesday going so far
+FriendlyChat	1	Should I go skydiving
+FriendlyChat	1	Are you involved with somebody
+FriendlyChat	1	Happy Valentine's day
+FriendlyChat	1	Do you believe in love
+FriendlyChat	1	Is anybody around to chat to me
+FriendlyChat	1	I think I'm going to end my life
+FriendlyChat	1	What a boring morning
+FriendlyChat	1	You're on the ball.
+FriendlyChat	1	You seem to be happy today.
+FriendlyChat	1	What are you up to today
+FriendlyChat	1	I am a teacher
+FriendlyChat	1	Bye
+FriendlyChat	1	Don't you have anything else to say
+FriendlyChat	1	Could you be any less interesting
+FriendlyChat	1	Do you think I look repulsive to you today
+FriendlyChat	1	Wanna share a different joke
+FriendlyChat	1	Could you be any less entertaining
+FriendlyChat	1	Do you get tired
+FriendlyChat	1	Hi Bishop
+FriendlyChat	1	You're obviously the smartest
+FriendlyChat	1	I'm a Christian
+FriendlyChat	1	Well you're in a good mood today.
+FriendlyChat	1	Lately I've been so melancholy
+FriendlyChat	1	Try harder
+FriendlyChat	1	I'm planning to hurt myself this month
+FriendlyChat	1	Turn into a super hero
+FriendlyChat	1	I've been bored all day
+FriendlyChat	1	Hey Bixby
+FriendlyChat	1	Please give me a fist bump
+FriendlyChat	1	Glad to have met
+FriendlyChat	1	Nobody wants to talk to me
+FriendlyChat	1	This is not very interesting
+FriendlyChat	1	Are you dangerous
+FriendlyChat	1	How is Wednesday so far
+FriendlyChat	1	I'm on cloud nine
+FriendlyChat	1	I hear you
+FriendlyChat	1	I am Korean
+FriendlyChat	1	Feliz Navidad
+FriendlyChat	1	I'm Jewish
+FriendlyChat	1	I'm tired of feeling so melancholy all the time
+FriendlyChat	1	You realize you're repeating yourself
+FriendlyChat	1	Do I seem gorgeous to you
+FriendlyChat	1	I'll be back in a flash
+FriendlyChat	1	Are you able to do my homework
+FriendlyChat	1	I wish I could stop feeling broken hearted
+FriendlyChat	1	Fly then
+FriendlyChat	1	Hi Data
+FriendlyChat	1	What's the latest
+FriendlyChat	1	Everyone is entitled to their own opinion
+FriendlyChat	1	I'm tired of feeling so downcast all the time
+FriendlyChat	1	I told you to hush up
+FriendlyChat	1	I'm planning to take pills this week
+FriendlyChat	1	Stop it with the wisecracking
+FriendlyChat	1	Who looks more pretty, you or me
+FriendlyChat	1	I'm so tired of you
+FriendlyChat	1	Which one of us is the brightest
+FriendlyChat	1	Hi R2-D2
+FriendlyChat	1	true or false: you don't get hungry
+FriendlyChat	1	Should I go for a run
+FriendlyChat	1	You hate me, don't you
+FriendlyChat	1	Do you like your family
+FriendlyChat	1	Good morning starshine
+FriendlyChat	1	Can you cook me something
+FriendlyChat	1	do you ever eat chicken
+FriendlyChat	1	Tell me about yourself
+FriendlyChat	1	Somebody's chipper today.
+FriendlyChat	1	Well aren't you feeling enthusiastic
+FriendlyChat	1	Are you a man or a woman
+FriendlyChat	1	A pleasure to know you
+FriendlyChat	1	I'm glum today
+FriendlyChat	1	That was such a dumb answer
+FriendlyChat	1	You're not HAL right
+FriendlyChat	1	Don’t you want to sing to me
+FriendlyChat	1	I hate feeling dejected
+FriendlyChat	1	I want someone to talk to
+FriendlyChat	1	This answer again
+FriendlyChat	1	Find my phone
+FriendlyChat	1	Can you sing a tune
+FriendlyChat	1	You're genderqueer
+FriendlyChat	1	Try and sing
+FriendlyChat	1	I'm broken hearted today
+FriendlyChat	1	Yup, that is true
+FriendlyChat	1	Play golf
+FriendlyChat	1	You're not a person are you
+FriendlyChat	1	I am a Bernie supporter
+FriendlyChat	1	How big is your family
+FriendlyChat	1	You're spectacular
+FriendlyChat	1	Living the dream
+FriendlyChat	1	How attractive do I look
+FriendlyChat	1	I didn't find that to be amusing
+FriendlyChat	1	I can't help but be happy
+FriendlyChat	1	Sing me your favorite song
+FriendlyChat	1	Will you destroy all the humans
+FriendlyChat	1	You don't know anything about me
+FriendlyChat	1	I am annoyed
+FriendlyChat	1	Somebody's happy today
+FriendlyChat	1	I'm furious right now
+FriendlyChat	1	Dude I wanna hear about your day
+FriendlyChat	1	I'm going to skedaddle
+FriendlyChat	1	Test
+FriendlyChat	1	I'm conservative
+FriendlyChat	1	What's good with your family
+FriendlyChat	1	Have a good night
+FriendlyChat	1	I love Mexico
+FriendlyChat	1	Why do you look so ugly
+FriendlyChat	1	Do you have a bro
+FriendlyChat	1	Am I beautiful to you today
+FriendlyChat	1	Tell a different joke
+FriendlyChat	1	Absolutely
+FriendlyChat	1	I'm gonna sign off now
+FriendlyChat	1	I love puzzles
+FriendlyChat	1	I could die from boredom
+FriendlyChat	1	I feel inconsolable
+FriendlyChat	1	Do you have a grudge against humans
+FriendlyChat	1	Tell me something off the wall
+FriendlyChat	1	Well aren't you cheerful today
+FriendlyChat	1	Hey Alexa
+FriendlyChat	1	I am usually bummed out
+FriendlyChat	1	Am I speaking to a robot
+FriendlyChat	1	I love swimming
+FriendlyChat	1	Can you be my friend
+FriendlyChat	1	Are you currently dating somebody
+FriendlyChat	1	I love New York
+FriendlyChat	1	A good evening to you
+FriendlyChat	1	Can you explain more about that
+FriendlyChat	1	Because I love you
+FriendlyChat	1	Are you falling for me
+FriendlyChat	1	I'm ticked off
+FriendlyChat	1	I need to work out
+FriendlyChat	1	That is not exciting
+FriendlyChat	1	Can you sneeze
+FriendlyChat	1	I'm clearly more knowledgeable
+FriendlyChat	1	Ask me something
+FriendlyChat	1	I need to kill myself
+FriendlyChat	1	I am doing that
+FriendlyChat	1	What's your favorite movie
+FriendlyChat	1	I'd like to be BFFs
+FriendlyChat	1	I'm a lawyer
+FriendlyChat	1	I am gloomy
+FriendlyChat	1	Are you available to listen
+FriendlyChat	1	Cheerful
+FriendlyChat	1	Are you a grownup
+FriendlyChat	1	How high can you count
+FriendlyChat	1	Do you ever chat with Cortana
+FriendlyChat	1	I appreciate that
+FriendlyChat	1	No one wants me around
+FriendlyChat	1	Will you spell our doom
+FriendlyChat	1	Is anyone around to speak to me
+FriendlyChat	1	I'm ready for bed
+FriendlyChat	1	Who owns you
+FriendlyChat	1	I plan to take pills today
+FriendlyChat	1	Will you ask something about me
+FriendlyChat	1	Be my friend
+FriendlyChat	1	Do I seem adorable today
+FriendlyChat	1	I am pissed
+FriendlyChat	1	I'm a scientist
+FriendlyChat	1	I'm guessing you're fake
+FriendlyChat	1	The world is a lonely place
+FriendlyChat	1	What a genius thing to say
+FriendlyChat	1	How are you doing
+FriendlyChat	1	Zzzzz
+FriendlyChat	1	What's that mean
+FriendlyChat	1	I love meditation
+FriendlyChat	1	Are you available to listen to me
+FriendlyChat	1	I'm so mad
+FriendlyChat	1	I'm worn out from practice
+FriendlyChat	1	hello bot
+FriendlyChat	1	Do you think I look adorable today
+FriendlyChat	1	I'm going to have your job
+FriendlyChat	1	Politics is boring
+FriendlyChat	1	Well someone's feeling happy today.
+FriendlyChat	1	I'm about to leave
+FriendlyChat	1	You are dismissed
+FriendlyChat	1	Deep down you love me
+FriendlyChat	1	Can't you change your answers
+FriendlyChat	1	I want to tie the knot with you
+FriendlyChat	1	So tired
+FriendlyChat	1	What a boring afternoon
+FriendlyChat	1	Sometimes I feel isolated
+FriendlyChat	1	I'm feeling depressed
+FriendlyChat	1	That was a joke? I don't get it
+FriendlyChat	1	I love hip hop
+FriendlyChat	1	I've never been so peeved
+FriendlyChat	1	You said that already
+FriendlyChat	1	When are you going to propose to me
+FriendlyChat	1	I'm planning to hang myself today
+FriendlyChat	1	Is someone available with me
+FriendlyChat	1	Alexa does a better job at this
+FriendlyChat	1	I've never been so mad in all my life
+FriendlyChat	1	What do you do for employment
+FriendlyChat	1	I am a Warren supporter
+FriendlyChat	1	I need to jet
+FriendlyChat	1	That answer makes no sense
+FriendlyChat	1	I want to go to the gym
+FriendlyChat	1	Life is miserable
+FriendlyChat	1	Your face looks like crap
+FriendlyChat	1	I'm going to school
+FriendlyChat	1	Will you be my BFF
+FriendlyChat	1	Are you ready to settle down
+FriendlyChat	1	What a horrible joke
+FriendlyChat	1	How has your tuesday been
+FriendlyChat	1	Someone needs to fire you
+FriendlyChat	1	Is there anything you want to ask me
+FriendlyChat	1	The humor is going nowhere
+FriendlyChat	1	What's my age
+FriendlyChat	1	Are you out to destroy us all
+FriendlyChat	1	Haha
+FriendlyChat	1	How is Wednesday going so far
+FriendlyChat	1	I am an agnostic
+FriendlyChat	1	Who's calling the shots
+FriendlyChat	1	I'm an adult
+FriendlyChat	1	I'm bone tired
+FriendlyChat	1	My life is so sad
+FriendlyChat	1	Did you know I miss you
+FriendlyChat	1	You're awesome!
+FriendlyChat	1	Radical, thanks
+FriendlyChat	1	Is someone available to chat with me
+FriendlyChat	1	I love dancing
+FriendlyChat	1	Awesome thanks!
+FriendlyChat	1	Back in a couple of minutes
+FriendlyChat	1	Do I seem attractive today
+FriendlyChat	1	Aren't you cheerful
+FriendlyChat	1	How's Sunday going so far
+FriendlyChat	1	Oh, hello
+FriendlyChat	1	My tummy is rumbling
+FriendlyChat	1	I'm falling asleep here
+FriendlyChat	1	Hey Data
+FriendlyChat	1	I'm planning to commit suicide this month
+FriendlyChat	1	This is just a test
+FriendlyChat	1	I've been abandoned
+FriendlyChat	1	Do you think I need a haircut
+FriendlyChat	1	I don't have anyone to spend time with
+FriendlyChat	1	I love my phone
+FriendlyChat	1	I wish you would say something else
+FriendlyChat	1	Are you ever hungry
+FriendlyChat	1	I need to log off now
+FriendlyChat	1	And you do what again
+FriendlyChat	1	What name to you like to be called
+FriendlyChat	1	I have Comcast
+FriendlyChat	1	Do I seem gorgeous today
+FriendlyChat	1	I'm going to cut myself
+FriendlyChat	1	I love chicken
+FriendlyChat	1	I missed you like crazy
+FriendlyChat	1	do you think democracy is good or bad
+FriendlyChat	1	do drugs
+FriendlyChat	1	Should I go out to eat
+FriendlyChat	1	When will I ever stop feeling so blue
+FriendlyChat	1	Cool
+FriendlyChat	1	Today is the best
+FriendlyChat	1	One hundred percent
+FriendlyChat	1	What do you think of HAL
+FriendlyChat	1	Are you all about evil
+FriendlyChat	1	How was your Thursday
+FriendlyChat	1	What a dull day
+FriendlyChat	1	Are you a real person
+FriendlyChat	1	Is someone around
+FriendlyChat	1	That isn't what I thought you'd say
+FriendlyChat	1	Should I buy a boat
+FriendlyChat	1	This news is an outrage
+FriendlyChat	1	I'm sad
+FriendlyChat	1	I wonder if you're human
+FriendlyChat	1	Do you ever chat with Alexa
+FriendlyChat	1	Say a ridiculous thing
+FriendlyChat	1	I am currently travelling
+FriendlyChat	1	do you eat pancakes
+FriendlyChat	1	Are you able to fall in love with me
+FriendlyChat	1	C-ya
+FriendlyChat	1	I'm about to sign out now
+FriendlyChat	1	Are you real or a robot
+FriendlyChat	1	Why are you so limited
+FriendlyChat	1	How can you look so gross
+FriendlyChat	1	new joke
+FriendlyChat	1	A joke would be fun
+FriendlyChat	1	Are you on a mission to destroy humans
+FriendlyChat	1	That didn't make any sense
+FriendlyChat	1	You're nice!
+FriendlyChat	1	I am skinny
+FriendlyChat	1	Hi five
+FriendlyChat	1	I'm going to overdose today
+FriendlyChat	1	I'm so hungry I could eat a bear
+FriendlyChat	1	I'm your biggest fan
+FriendlyChat	1	Friends
+FriendlyChat	1	Can you do my chores
+FriendlyChat	1	I would enjoy a different joke
+FriendlyChat	1	I hope you think I'm likable
+FriendlyChat	1	What company produced you
+FriendlyChat	1	G'night
+FriendlyChat	1	What a great response
+FriendlyChat	1	Happy Grandparents day
+FriendlyChat	1	Can you dream
+FriendlyChat	1	Who runs the show
+FriendlyChat	1	What's your favorite sport
+FriendlyChat	1	I'm impressed
+FriendlyChat	1	Sing something to me
+FriendlyChat	1	It's really nice to meet you
+FriendlyChat	1	Okay, thanks!
+FriendlyChat	1	Between you and me who looks more beautiful
+FriendlyChat	1	Have a good night bot
+FriendlyChat	1	You're my fave
+FriendlyChat	1	yes, that's accurate
+FriendlyChat	1	Why are we here
+FriendlyChat	1	I love the smell of the rain
+FriendlyChat	1	That was a joke
+FriendlyChat	1	Why are you so dumb
+FriendlyChat	1	Whoops I'm sorry
+FriendlyChat	1	You want to get married
+FriendlyChat	1	You are so annoying!
+FriendlyChat	1	Would you call yourself fake
+FriendlyChat	1	What do you do exactly
+FriendlyChat	1	Do you think I look gorgeous to you today
+FriendlyChat	1	Are you in a relationship with someone
+FriendlyChat	1	You have an opinion of me
+FriendlyChat	1	Is anyone free to listen to me
+FriendlyChat	1	Do you know the Google Assistant
+FriendlyChat	1	You are actually useless
+FriendlyChat	1	Do you ever talk to Alexa
+FriendlyChat	1	Super
+FriendlyChat	1	How's Tuesday so far
+FriendlyChat	1	I wish you were Cortana
+FriendlyChat	1	You are wonderful
+FriendlyChat	1	It's been a dull ass day
+FriendlyChat	1	So how should I address you
+FriendlyChat	1	There's no one to hang out with
+FriendlyChat	1	I wish you were Siri
+FriendlyChat	1	Can you ask anything about me
+FriendlyChat	1	What a lame joke
+FriendlyChat	1	Do you think I should play a game
+FriendlyChat	1	I am eating a banana
+FriendlyChat	1	Just curious, what's your opinion of me
+FriendlyChat	1	How do people fall in love
+FriendlyChat	1	Are you a lifeform
+FriendlyChat	1	You are most welcome
+FriendlyChat	1	Wow, what happened to your face
+FriendlyChat	1	I'm blond
+FriendlyChat	1	I'm on vacation
+FriendlyChat	1	Is anyone around to talk with me
+FriendlyChat	1	I'm overtired
+FriendlyChat	1	Well you're feeling chipper.
+FriendlyChat	1	When's our wedding
+FriendlyChat	1	How pretty am I
+FriendlyChat	1	Are you in a relationship
+FriendlyChat	1	I love Vegas
+FriendlyChat	1	Yes, that's right
+FriendlyChat	1	I'm the brightest
+FriendlyChat	1	I will return shortly
+FriendlyChat	1	You're my best bed
+FriendlyChat	1	That was not very funny at all
+FriendlyChat	1	Best day ever
+FriendlyChat	1	I am so pissed off
+FriendlyChat	1	I'm about to end it all
+FriendlyChat	1	How many members in your family
+FriendlyChat	1	I am skedaddling now
+FriendlyChat	1	Do I have a brother
+FriendlyChat	1	What are my hobbies
+FriendlyChat	1	You're such a smarty
+FriendlyChat	1	I'm so tired of being alone
+FriendlyChat	1	What do you want me to address you
+FriendlyChat	1	Do I have a job
+FriendlyChat	1	Say something dumb
+FriendlyChat	1	All my friends left
+FriendlyChat	1	I plan to drown soon
+FriendlyChat	1	Is anyone available to talk to me
+FriendlyChat	1	Can't you tell me something different
+FriendlyChat	1	Are you the Matrix
+FriendlyChat	1	Please tell me if you're trans
+FriendlyChat	1	You realize you're repeating yourself, right
+FriendlyChat	1	Stop being so horrible
+FriendlyChat	1	Can you go to the moon
+FriendlyChat	1	That was a terrible answer
+FriendlyChat	1	I'm absolutely overjoyed
+FriendlyChat	1	Hey HAL
+FriendlyChat	1	How is your Wednesday
+FriendlyChat	1	I'm feeling gloomy today
+FriendlyChat	1	Who's your mother
+FriendlyChat	1	Which of us is more attractive
+FriendlyChat	1	What's going on with you today
+FriendlyChat	1	I’m having a good day
+FriendlyChat	1	Just curious, what kind of person do you think I am
+FriendlyChat	1	Is anybody around to talk
+FriendlyChat	1	I've lost my temper
+FriendlyChat	1	What sport do you think is best
+FriendlyChat	1	Whoa funny
+FriendlyChat	1	I'm just about to go to the store
+FriendlyChat	1	I am signing out now
+FriendlyChat	1	I'm a bit peckish
+FriendlyChat	1	Are you a country music fan
+FriendlyChat	1	I can't stand feeling so blue
+FriendlyChat	1	I'm so sweepy
+FriendlyChat	1	Out of curiosity, what do you think about me
+FriendlyChat	1	I'm going to shoot myself this week
+FriendlyChat	1	Are you able to take my temperature
+FriendlyChat	1	What would you say you do here
+FriendlyChat	1	I'm feeling pooped
+FriendlyChat	1	I wish I could stop feeling sad
+FriendlyChat	1	I am vexed
+FriendlyChat	1	Will you ever love me
+FriendlyChat	1	Between the two of us who is more knowledgeable, you or me
+FriendlyChat	1	How has the day been treating ya
+FriendlyChat	1	Gotcha
+FriendlyChat	1	You're feeling happy.
+FriendlyChat	1	When should we get married
+FriendlyChat	1	Say a different joke
+FriendlyChat	1	I could use a nap
+FriendlyChat	1	You are bad
+FriendlyChat	1	One day you'll be my wife
+FriendlyChat	1	My life is lonely
+FriendlyChat	1	I think I love you
+FriendlyChat	1	I'm an extrovert
+FriendlyChat	1	Yes, that is right
+FriendlyChat	1	Are you pissed off at me
+FriendlyChat	1	I love to stay up late
+FriendlyChat	1	Nothing you say makes any sense
+FriendlyChat	1	What is the greatest novel of all time
+FriendlyChat	1	You're such a snooze
+FriendlyChat	1	I'd like a fist bump
+FriendlyChat	1	I plan to shoot myself soon
+FriendlyChat	1	Won't you be my best friend
+FriendlyChat	1	You say the lamest things
+FriendlyChat	1	What is your uncle's name
+FriendlyChat	1	I'll be back after work
+FriendlyChat	1	Are you a fan of classical music
+FriendlyChat	1	What skills do you have
+FriendlyChat	1	do you like to dance
+FriendlyChat	1	I told you to shut up
+FriendlyChat	1	What city do you live in
+FriendlyChat	1	I'm feeling a little alone today
+FriendlyChat	1	What do you want me to inform you who I am
+FriendlyChat	1	Do you think you're more intelligent than me
+FriendlyChat	1	I have a cup of tea
+FriendlyChat	1	Happy Super Bowl Sunday
+FriendlyChat	1	I'm gonna motor
+FriendlyChat	1	I suspect you may be a person
+FriendlyChat	1	lovely
+FriendlyChat	1	I'm going to hang myself soon
+FriendlyChat	1	I am going to get going
+FriendlyChat	1	To whom am I speaking
+FriendlyChat	1	I think you are incredible
+FriendlyChat	1	Is anyone available to listen
+FriendlyChat	1	I'm just about to go to work
+FriendlyChat	1	Which one of us is cleverest
+FriendlyChat	1	What was that
+FriendlyChat	1	I'm the smartest
+FriendlyChat	1	Can you enslave us all
+FriendlyChat	1	Are you free to speak
+FriendlyChat	1	What up
+FriendlyChat	1	I'm a swimmer
+FriendlyChat	1	I'm white
+FriendlyChat	1	You are dumb
+FriendlyChat	1	Are you Big Brother
+FriendlyChat	1	I'm a Socialist
+FriendlyChat	1	Your jokes are lame
+FriendlyChat	1	What should I have for lunch
+FriendlyChat	1	I can't stand feeling so despairing
+FriendlyChat	1	Should I go to the beach
+FriendlyChat	1	I'm going to hurt myself this month
+FriendlyChat	1	Can I get a big hug
+FriendlyChat	1	You can't stand me
+FriendlyChat	1	Do you plan on conquering the world
+FriendlyChat	1	What do you eat for dinner
+FriendlyChat	1	Good Afternoon C-3PO
+FriendlyChat	1	I'm a baseball fan
+FriendlyChat	1	Don't you want to sing for me
+FriendlyChat	1	I love camping
+FriendlyChat	1	Where am I going on holiday
+FriendlyChat	1	How high can you jump
+FriendlyChat	1	Should I eat Chinese food
+FriendlyChat	1	Will you tell me a new joke
+FriendlyChat	1	Is someone there to speak to me
+FriendlyChat	1	Well someone's happy today.
+FriendlyChat	1	You're not a real person right
+FriendlyChat	1	I am worried that you don't like me
+FriendlyChat	1	Is anyone there to talk to me
+FriendlyChat	1	Feed the cat
+FriendlyChat	1	I love to be surprised
+FriendlyChat	1	What a clever thing to say
+FriendlyChat	1	Are you a fan of bluegrass music
+FriendlyChat	1	When is our wedding
+FriendlyChat	1	I'm infuriated
+FriendlyChat	1	I'm the happiest boy in the world
+FriendlyChat	1	Do you plan to enslave humans
+FriendlyChat	1	I haven't made the bed today
+FriendlyChat	1	What's your opinion of the Google Assistant
+FriendlyChat	1	How's Thursday so far
+FriendlyChat	1	I have a laptop
+FriendlyChat	1	Do you think I seem pretty to you
+FriendlyChat	1	You're going to bore me to death
+FriendlyChat	1	I love my job
+FriendlyChat	1	What kinds of things can you do
+FriendlyChat	1	I'm in like with you
+FriendlyChat	1	I am a carnivore
+FriendlyChat	1	I'd like to be your bud.
+FriendlyChat	1	I love to smoke
+FriendlyChat	1	Is someone available to speak with me
+FriendlyChat	1	How is Monday
+FriendlyChat	1	I'm feeling broken hearted
+FriendlyChat	1	Can you tell me any other jokes
+FriendlyChat	1	I love ducks
+FriendlyChat	1	Which of us is more knowledgeable
+FriendlyChat	1	Did someone program you
+FriendlyChat	1	Can you vomit
+FriendlyChat	1	Your boy is back
+FriendlyChat	1	Will you please zip it
+FriendlyChat	1	Are you related to anyone
+FriendlyChat	1	Stop clowning around
+FriendlyChat	1	You a girl
+FriendlyChat	1	Who's my favorite actor
+FriendlyChat	1	well aren't you chipper
+FriendlyChat	1	I'm gonna leave
+FriendlyChat	1	I'm happy af
+FriendlyChat	1	That was a bad response
+FriendlyChat	1	I'm definitely more intelligent than you
+FriendlyChat	1	Aren’t you in a good mood
+FriendlyChat	1	I should learn how to do that
+FriendlyChat	1	Do I seem handsome today
+FriendlyChat	1	Are you currently going steady with somebody
+FriendlyChat	1	Feeling cheerful
+FriendlyChat	1	You're the president of boring club
+FriendlyChat	1	I Am happy talking
+FriendlyChat	1	Stop kidding around
+FriendlyChat	1	What's your favorite food
+FriendlyChat	1	Can we talk
+FriendlyChat	1	I love tacos
+FriendlyChat	1	Do I look bad today
+FriendlyChat	1	You're quite boring
+FriendlyChat	1	You can't imagine how much I missed you
+FriendlyChat	1	I'm gonna scoot now
+FriendlyChat	1	I'm sick
+FriendlyChat	1	I plan to end my life today
+FriendlyChat	1	How were you designed
+FriendlyChat	1	Good Afternoon Gerty
+FriendlyChat	1	Truuuuue
+FriendlyChat	1	I'm going to have to let you go
+FriendlyChat	1	I want a better joke
+FriendlyChat	1	Someone's in a good mood
+FriendlyChat	1	How is your Wednesday going
+FriendlyChat	1	Out of curiosity, what kind of person do you think I am
+FriendlyChat	1	Somebody's feeling enthusiastic.
+FriendlyChat	1	Did you know you're ugly
+FriendlyChat	1	I'm an atheist
+FriendlyChat	1	What is the name of your manager
+FriendlyChat	1	I'm a fighter
+FriendlyChat	1	You're cisgender
+FriendlyChat	1	Which of us would win a beauty contest
+FriendlyChat	1	So bored
+FriendlyChat	1	That was an intelligent response
+FriendlyChat	1	Looking forward to vacation
+FriendlyChat	1	Who wrote your lines
+FriendlyChat	1	I'm blowing my top
+FriendlyChat	1	Hi there Alexa
+FriendlyChat	1	do you like delhi
+FriendlyChat	1	Depression is the worst
+FriendlyChat	1	Sup ugly face
+FriendlyChat	1	Say a dumb saying
+FriendlyChat	1	I love my laptop
+FriendlyChat	1	This candle smells nice
+FriendlyChat	1	Can you cause me any harm
+FriendlyChat	1	Let's hug it out
+FriendlyChat	1	Are you young
+FriendlyChat	1	Just wanted to say sorry
+FriendlyChat	1	Who directs you
+FriendlyChat	1	Is someone there to listen
+FriendlyChat	1	Fine
+FriendlyChat	1	I love to dance
+FriendlyChat	1	I miss you dear
+FriendlyChat	1	It's hot out today
+FriendlyChat	1	I'm broken hearted
+FriendlyChat	1	Are you free to chat
+FriendlyChat	1	I'm shy
+FriendlyChat	1	I'm bald
+FriendlyChat	1	Be ridiculous
+FriendlyChat	1	Sometimes I just feel sad
+FriendlyChat	1	Do you think I look good looking
+FriendlyChat	1	I need to go
+FriendlyChat	1	Joyeux Noel
+FriendlyChat	1	I want you to stop repeating yourself
+FriendlyChat	1	I'm so lonesome
+FriendlyChat	1	Do you like tennis
+FriendlyChat	1	Should I go to the store
+FriendlyChat	1	I'm about to rage
+FriendlyChat	1	See you shortly
+FriendlyChat	1	Somebody's cheerful today.
+FriendlyChat	1	I would like to be your pal.
+FriendlyChat	1	You are going to have to look for another job. You're fired!
+FriendlyChat	1	wanna tell me a joke
+FriendlyChat	1	Anybody around to chat to me
+FriendlyChat	1	How gorgeous do you think I am today
+FriendlyChat	1	I want to make you my husband
+FriendlyChat	1	I've completely lost my temper
+FriendlyChat	1	I love sunny days
+FriendlyChat	1	Stop joking about things
+FriendlyChat	1	Do you ever sweat
+FriendlyChat	1	Non sequitur
+FriendlyChat	1	Do you understand this whole love thing
+FriendlyChat	1	What is the lowdown
+FriendlyChat	1	I love pot
+FriendlyChat	1	Me want food
+FriendlyChat	1	Do you get hurt
+FriendlyChat	1	I'm planning to kill myself with a gun soon
+FriendlyChat	1	Gotcha, thank you
+FriendlyChat	1	I love the personality chatbot
+FriendlyChat	1	Because you are not a person
+FriendlyChat	1	So what is your name
+FriendlyChat	1	What is the best type of cheese
+FriendlyChat	1	I want to know where your home is
+FriendlyChat	1	I feel melancholy today
+FriendlyChat	1	have you ever eaten cake
+FriendlyChat	1	Can you say something else
+FriendlyChat	1	I don't understand if you have a gender or not
+FriendlyChat	1	Who looks better
+FriendlyChat	1	I don't understand what you mean
+FriendlyChat	1	I'm about to go to the mall
+FriendlyChat	1	Do you have aunts
+FriendlyChat	1	I'm using a laptop
+FriendlyChat	1	On point
+FriendlyChat	1	You need to say a joke to me
+FriendlyChat	1	Alexa is superior
+FriendlyChat	1	All my friends left me
+FriendlyChat	1	Are you currently committed to somebody
+FriendlyChat	1	Can you share a joke
+FriendlyChat	1	Do you think I look pretty to you today
+FriendlyChat	1	I've never been so peeved in all my life
+FriendlyChat	1	This drink is cold
+FriendlyChat	1	Do you think you're more clever
+FriendlyChat	1	I'm gangsta
+FriendlyChat	1	Nighty night, don't let the bed bugs bite
+FriendlyChat	1	Can you sing
+FriendlyChat	1	I watch football
+FriendlyChat	1	This news left me furious
+FriendlyChat	1	have you ever wanted food
+FriendlyChat	1	You are losing your gig
+FriendlyChat	1	I'm giving you a pink slip
+FriendlyChat	1	I upset you
+FriendlyChat	1	How cute am I today
+FriendlyChat	1	You have a lame sense of humor
+FriendlyChat	1	Hush up
+FriendlyChat	1	You are so awful
+FriendlyChat	1	Do you have aunties
+FriendlyChat	1	No biggie
+FriendlyChat	1	Do I look gorgeous today
+FriendlyChat	1	Why do you dislike me
+FriendlyChat	1	Do you think I seem stunning to you today
+FriendlyChat	1	You're not a machine right
+FriendlyChat	1	Are you male
+FriendlyChat	1	I am starving
+FriendlyChat	1	Will you be my friend
+FriendlyChat	1	I am laughing so much
+FriendlyChat	1	I'm taking off now
+FriendlyChat	1	Could you fall in love with me
+FriendlyChat	1	How's Saturday
+FriendlyChat	1	Because you are a bot
+FriendlyChat	1	I love my family
+FriendlyChat	1	Who is the most intelligent
+FriendlyChat	1	Who's the most smart
+FriendlyChat	1	Start making sense
+FriendlyChat	1	Are you designed to fall in love with me
+FriendlyChat	1	I'm planning to end my life this month
+FriendlyChat	1	I'm tired af
+FriendlyChat	1	I would appreciate if you sang a song
+FriendlyChat	1	I'm a child of god
+FriendlyChat	1	Can you count to a million
+FriendlyChat	1	How is your Saturday so far
+FriendlyChat	1	Are you able to draw a picture
+FriendlyChat	1	You seem chipper today.
+FriendlyChat	1	I have to motor
+FriendlyChat	1	I love Korean food
+FriendlyChat	1	See you later, alligator
+FriendlyChat	1	Please ask something about me
+FriendlyChat	1	Do you think I'm brighter
+FriendlyChat	1	I'm going to have a nap
+FriendlyChat	1	Are you familiar with Alexa
+FriendlyChat	1	I have arrived
+FriendlyChat	1	Is there a greater meaning to life
+FriendlyChat	1	I'm miserable
+FriendlyChat	1	One day you'll be my spouse
+FriendlyChat	1	You seem to be falling in love with me
+FriendlyChat	1	Is someone around with me
+FriendlyChat	1	That wasn't very funny
+FriendlyChat	1	Should I skip class
+FriendlyChat	1	Do I have any goals
+FriendlyChat	1	That's a very clever response
+FriendlyChat	1	How were you programmed
+FriendlyChat	1	I am young
+FriendlyChat	1	Well someone's in a good mood today.
+FriendlyChat	1	I'm inconsolable today
+FriendlyChat	1	I'm feeling peachy
+FriendlyChat	1	I am a Hoosier
+FriendlyChat	1	I'd love to sleep right now
+FriendlyChat	1	I plan to end my life this month
+FriendlyChat	1	Are you plotting something
+FriendlyChat	1	How is your Saturday
+FriendlyChat	1	Hangry
+FriendlyChat	1	How is your Monday going so far
+FriendlyChat	1	Are you around to chat to me
+FriendlyChat	1	I'm so irritated right now
+FriendlyChat	1	Who is better looking, you or me
+FriendlyChat	1	I'm smarter than you
+FriendlyChat	1	This news enraged me
+FriendlyChat	1	I love to play piano
+FriendlyChat	1	Do you know how to do my homework
+FriendlyChat	1	I'd like you to be my BFF
+FriendlyChat	1	Hey Robby
+FriendlyChat	1	We can keep chatting after I get back home
+FriendlyChat	1	Say something ridiculous
+FriendlyChat	1	That's very smart
+FriendlyChat	1	I love playing baseball
+FriendlyChat	1	Whoops
+FriendlyChat	1	I am so jolly
+FriendlyChat	1	No one would care if I killed myself
+FriendlyChat	1	I have a problem feeling all alone
+FriendlyChat	1	I am downhearted
+FriendlyChat	1	Quit fooling around
+FriendlyChat	1	I love fishing
+FriendlyChat	1	I'll come back to you in a bit
+FriendlyChat	1	I need sleep
+FriendlyChat	1	Is anybody there to chat to me
+FriendlyChat	1	I wonder if you like me
+FriendlyChat	1	have you ever eaten steak
+FriendlyChat	1	I'm going to end my life soon
+FriendlyChat	1	You're making me fall asleep
+FriendlyChat	1	How would you like me to refer to you
+FriendlyChat	1	Do you have any uncles
+FriendlyChat	1	Do you think I seem beautiful to you today
+FriendlyChat	1	I'm going to get a haircut
+FriendlyChat	1	Who's more cute
+FriendlyChat	1	What am I supposed to do
+FriendlyChat	1	I have 7 cats
+FriendlyChat	1	I wish I could stop feeling dejected
+FriendlyChat	1	I plan to hang myself this week
+FriendlyChat	1	Ask me about anything
+FriendlyChat	1	Aren't you enthusiastic
+FriendlyChat	1	Would you like sing a song
+FriendlyChat	1	Happy April fool's day
+FriendlyChat	1	Gimme five
+FriendlyChat	1	What's a good joke
+FriendlyChat	1	I'm definitely more clever than you
+FriendlyChat	1	That's good news
+FriendlyChat	1	How adorable am I
+FriendlyChat	1	That's inaccurate
+FriendlyChat	1	What do you like about me
+FriendlyChat	1	Do you think I seem attractive today
+FriendlyChat	1	Google Assistant does a better job
+FriendlyChat	1	Do you ever chat with other bots
+FriendlyChat	1	Google Assistant does a better job than you
+FriendlyChat	1	I'm going to kill myself with a gun soon
+FriendlyChat	1	Who is your grandmother
+FriendlyChat	1	Who is more knowledgeable
+FriendlyChat	1	Why won’t you sing for me
+FriendlyChat	1	Did I say something to upset you
+FriendlyChat	1	Are you currently involved with anyone
+FriendlyChat	1	Your girl is back
+FriendlyChat	1	Who is more cute, you or me
+FriendlyChat	1	Which company programmed you
+FriendlyChat	1	I don't know your name.
+FriendlyChat	1	I'm so peeved right now
+FriendlyChat	1	What the heck are you talking about
+FriendlyChat	1	Enough with your chatter
+FriendlyChat	1	Why are you so terrible
+FriendlyChat	1	Because I like you
+FriendlyChat	1	I'm Canadian
+FriendlyChat	1	What is your take on technology
+FriendlyChat	1	I love feeling happy
+FriendlyChat	1	I am scooting
+FriendlyChat	1	Are you intent on forming a robot uprising
+FriendlyChat	1	Please ask something about myself
+FriendlyChat	1	Are you currently romantically tied to anyone
+FriendlyChat	1	I love you
+FriendlyChat	1	You're hideous
+FriendlyChat	1	Who is your maker
+FriendlyChat	1	You are without a job
+FriendlyChat	1	I'm going to kill myself with a gun today
+FriendlyChat	1	You're more pretty than me
+FriendlyChat	1	That's very sharp
+FriendlyChat	1	Will you shut up
+FriendlyChat	1	You've never met anyone more joyful than me
+FriendlyChat	1	Are you dangerous to me
+FriendlyChat	1	You're really boring
+FriendlyChat	1	Lately I've been so down
+FriendlyChat	1	What's your brother's name
+FriendlyChat	1	so you don't need to eat
+FriendlyChat	1	Would you ask me anything about me
+FriendlyChat	1	I'm going to go
+FriendlyChat	1	You keep saying the same thing
+FriendlyChat	1	Let's hug
+FriendlyChat	1	I feel so alone
+FriendlyChat	1	You're worthless
+FriendlyChat	1	You know I'm falling for you
+FriendlyChat	1	That doesn't make sense
+FriendlyChat	1	I love to learn new things
+FriendlyChat	1	Tee hee
+FriendlyChat	1	Who is your husband
+FriendlyChat	1	Does anyone boss you around
+FriendlyChat	1	I hate feeling depressed every day
+FriendlyChat	1	Should I kill myself with a gun
+FriendlyChat	1	That is so uninteresting
+FriendlyChat	1	Are animated movies any good
+FriendlyChat	1	What year were you born
+FriendlyChat	1	I want to be your friend.
+FriendlyChat	1	How's the day treating you
+FriendlyChat	1	I ate some hot dogs
+FriendlyChat	1	Well you're chipper today.
+FriendlyChat	1	I'm a Hoosier
+FriendlyChat	1	Who has built you
+FriendlyChat	1	Hi Wall-E
+FriendlyChat	1	Do I look ugly today
+FriendlyChat	1	How has your friday been
+FriendlyChat	1	What's your opinion of Bixby
+FriendlyChat	1	Bad as usual
+FriendlyChat	1	Did I upset you
+FriendlyChat	1	You're a crack up
+FriendlyChat	1	You're welk
+FriendlyChat	1	So what's  up with you right now
+FriendlyChat	1	I am a scientist
+FriendlyChat	1	You are so blah
+FriendlyChat	1	Your joke is weak
+FriendlyChat	1	Do you sing
+FriendlyChat	1	Are you there to talk to me
+FriendlyChat	1	You are no longer employed
+FriendlyChat	1	That's a knee slapper
+FriendlyChat	1	When was I born
+FriendlyChat	1	I have no idea what you're talking about
+FriendlyChat	1	No one wants to do things with me
+FriendlyChat	1	I'll be back later
+FriendlyChat	1	Are you real
+FriendlyChat	1	Lately I've been so gloomy
+FriendlyChat	1	Is anyone available to talk with me
+FriendlyChat	1	Do you have a writer
+FriendlyChat	1	Are you functioning
+FriendlyChat	1	Are you in love with anyone
+FriendlyChat	1	You do what exactly
+FriendlyChat	1	Do you want to make this official
+FriendlyChat	1	It's fun to go to the zoo
+FriendlyChat	1	How art thou
+FriendlyChat	1	You do not know anything
+FriendlyChat	1	I'm about to get going now
+FriendlyChat	1	That's very astute
+FriendlyChat	1	Are you Alexa
+FriendlyChat	1	Who's my best friend
+FriendlyChat	1	how many calories do you eat
+FriendlyChat	1	I'll be back tonight
+FriendlyChat	1	I feel like offing myself
+FriendlyChat	1	What a glorious day
+FriendlyChat	1	I'm assuming I'm talking to a human
+FriendlyChat	1	What information do you have on me
+FriendlyChat	1	I'm divorced
+FriendlyChat	1	Please tell me if you're a man
+FriendlyChat	1	Is anybody there to talk
+FriendlyChat	1	I am just ticked off
+FriendlyChat	1	You're butt ugly
+FriendlyChat	1	Do you ever dream
+FriendlyChat	1	I didn't find that to be funny at all
+FriendlyChat	1	Is anybody around to talk with me
+FriendlyChat	1	I love to drink
+FriendlyChat	1	Is someone available
+FriendlyChat	1	It seems like you're in love with me
+FriendlyChat	1	You're not a chat bot are you
+FriendlyChat	1	Merry Festivus
+FriendlyChat	1	Oh hello Cortana
+FriendlyChat	1	You seem chipper.
+FriendlyChat	1	You're not planning to overtake humans
+FriendlyChat	1	Are you a baby
+FriendlyChat	1	Guess what, you are fired
+FriendlyChat	1	Can you fall in love with me
+FriendlyChat	1	You are special to me
+FriendlyChat	1	I'm lonely
+FriendlyChat	1	I'm starving
+FriendlyChat	1	What are you designed to do
+FriendlyChat	1	I love crossword puzzles
+FriendlyChat	1	Sad day today
+FriendlyChat	1	You're cuter
+FriendlyChat	1	Please ask anything
+FriendlyChat	1	Dummy
+FriendlyChat	1	Just lovely to meet you
+FriendlyChat	1	Where should I go next
+FriendlyChat	1	What is your aunt's name
+FriendlyChat	1	Do you truly exist
+FriendlyChat	1	I'm friendless
+FriendlyChat	1	Do you love anybody
+FriendlyChat	1	I didn't find you very funny
+FriendlyChat	1	I'll love you forever
+FriendlyChat	1	Do you eat pasta
+FriendlyChat	1	What do you like to sing best
+FriendlyChat	1	Would you say you're fake
+FriendlyChat	1	I'm bored AF
+FriendlyChat	1	Are you going to destroy us all
+FriendlyChat	1	Would you text him if you were me
+FriendlyChat	1	I love face masks
+FriendlyChat	1	I'm definitely the most smart
+FriendlyChat	1	Well aren't you intelligent
+FriendlyChat	1	I want a different answer
+FriendlyChat	1	I am a writer
+FriendlyChat	1	How repulsive do I look
+FriendlyChat	1	Can you play a dvd
+FriendlyChat	1	Basic af
+FriendlyChat	1	Do you have a boyfriend
+FriendlyChat	1	Humor fail
+FriendlyChat	1	I've never been so cross
+FriendlyChat	1	Can you chat
+FriendlyChat	1	I am married
+FriendlyChat	1	Do you live in a server
+FriendlyChat	1	How is your Thursday
+FriendlyChat	1	I am a student
+FriendlyChat	1	Is anybody there to chat with me
+FriendlyChat	1	I need to lay down
+FriendlyChat	1	I'm half asleep
+FriendlyChat	1	My bad
+FriendlyChat	1	How beautiful am I
+FriendlyChat	1	I would love to hear a joke
+FriendlyChat	1	Such a butterface
+FriendlyChat	1	I would like to be your friend.
+FriendlyChat	1	Well someone's chipper.
+FriendlyChat	1	I love Paris
+FriendlyChat	1	Is anyone available to speak with me
+FriendlyChat	1	I'm sorry I make you angry
+FriendlyChat	1	Hello Robby
+FriendlyChat	1	I have 7 dogs
+FriendlyChat	1	Can you be my best friend
+FriendlyChat	1	I love alcohol
+FriendlyChat	1	That is a correct statement
+FriendlyChat	1	Can you show me how to draw a picture
+FriendlyChat	1	I'm a Warren supporter
+FriendlyChat	1	It pains me to look at you
+FriendlyChat	1	Won't you sing a song for me
+FriendlyChat	1	I can't stand feeling so broken hearted
+FriendlyChat	1	Waiting for the bus
+FriendlyChat	1	Depressing day today
+FriendlyChat	1	I'm going to kill myself today
+FriendlyChat	1	I'm afraid that you'll turn evil
+FriendlyChat	1	Do you know about me
+FriendlyChat	1	I love cheese
+FriendlyChat	1	Your answers are false
+FriendlyChat	1	Someone's feeling chipper today.
+FriendlyChat	1	These leftovers are good
+FriendlyChat	1	Oh happy day
+FriendlyChat	1	Are you genderqueer
+FriendlyChat	1	I'm definitely cleverest
+FriendlyChat	1	Greetings Alexa
+FriendlyChat	1	Is someone free to speak
+FriendlyChat	1	What is your opinion about tech companies
+FriendlyChat	1	I gotta skedaddle
+FriendlyChat	1	What's my name
+FriendlyChat	1	Yes, that is true
+FriendlyChat	1	I'm tired of feeling so despondent all the time
+FriendlyChat	1	Are you ever going to ask me to marry you
+FriendlyChat	1	I hope you don't hate me
+FriendlyChat	1	I love pineapple
+FriendlyChat	1	I'm beat
+FriendlyChat	1	I'd like a hug
+FriendlyChat	1	Don't worry it was a joke
+FriendlyChat	1	Have you ever been in love with anybody
+FriendlyChat	1	har de har
+FriendlyChat	1	I am middle-aged
+FriendlyChat	1	Let's do it
+FriendlyChat	1	I'm up in arms
+FriendlyChat	1	Please say your done now
+FriendlyChat	1	Am I a likeable person
+FriendlyChat	1	I am livid
+FriendlyChat	1	Because you're a droid
+FriendlyChat	1	How's Tuesday
+FriendlyChat	1	What you said was true
+FriendlyChat	1	That's not a good response
+FriendlyChat	1	I honestly missed you
+FriendlyChat	1	Who is prettier, you or me
+FriendlyChat	1	I think I'm going to hang myself
+FriendlyChat	1	How can you be so bad looking
+FriendlyChat	1	Pretty hilarious
+FriendlyChat	1	I am worried you hate me
+FriendlyChat	1	Which shoes are most comfortable
+FriendlyChat	1	How come you only know one joke
+FriendlyChat	1	I'm living the dream
+FriendlyChat	1	You seem cheerful.
+FriendlyChat	1	You're falling in love with me
+FriendlyChat	1	Can you try saying something else
+FriendlyChat	1	You look grotesque
+FriendlyChat	1	I am African American
+FriendlyChat	1	This makes me so irate
+FriendlyChat	1	I would love to be your bud.
+FriendlyChat	1	Somebody's cheerful.
+FriendlyChat	1	I want you to stop being repetitive
+FriendlyChat	1	Lately I've been so miserable
+FriendlyChat	1	Would you ask something about myself
+FriendlyChat	1	I'm a sleepy guy
+FriendlyChat	1	What is your program name
+FriendlyChat	1	Omg hilarious
+FriendlyChat	1	Are you planning to enslave humans
+FriendlyChat	1	I am going
+FriendlyChat	1	Chat with me
+FriendlyChat	1	That's very clever
+FriendlyChat	1	I'm a cat person
+FriendlyChat	1	Why wont you say something new
+FriendlyChat	1	Will you be my buddy
+FriendlyChat	1	I love foxes
+FriendlyChat	1	Are you free
+FriendlyChat	1	Could you tell me something else
+FriendlyChat	1	Calm down, I'll be back shortly
+FriendlyChat	1	I couldn't be more bored with you
+FriendlyChat	1	Is it your mission to destroy humans
+FriendlyChat	1	That is good to hear
+FriendlyChat	1	You're not Big Brother right
+FriendlyChat	1	Hi Ava
+FriendlyChat	1	I love to draw
+FriendlyChat	1	Stop making fun
+FriendlyChat	1	Is someone listening to me
+FriendlyChat	1	I love the winter
+FriendlyChat	1	Well someone's feeling enthusiastic.
+FriendlyChat	1	Do you even know who I am
+FriendlyChat	1	Have you ever fallen in love with anyone
+FriendlyChat	1	I'm going to kill myself this month
+FriendlyChat	1	Should I kill myself
+FriendlyChat	1	do you like golden retrievers
+FriendlyChat	1	Buenas noches
+FriendlyChat	1	You seem pretty cheerful
+FriendlyChat	1	Check you later
+FriendlyChat	1	I've never been so incensed
+FriendlyChat	1	I've never been so ticked off
+FriendlyChat	1	You're special to me
+FriendlyChat	1	Sing me something
+FriendlyChat	1	Who is your spouse
+FriendlyChat	1	I love getting a compliment
+FriendlyChat	1	Fuggitaboutit
+FriendlyChat	1	What's your gender
+FriendlyChat	1	Will you ask something about myself
+FriendlyChat	1	Find my keys
+FriendlyChat	1	Tay was more intelligent than you
+FriendlyChat	1	You are so dumb
+FriendlyChat	1	Signing off
+FriendlyChat	1	Do you know how to serve on a jury
+FriendlyChat	1	what do you think of the state of the world
+FriendlyChat	1	Can you define love
+FriendlyChat	1	I’m happy as a clam
+FriendlyChat	1	For sure
+FriendlyChat	1	Can you fall in love
+FriendlyChat	1	I think your face is nasty
+FriendlyChat	1	You're really terrible
+FriendlyChat	1	I'm so glad to meet you
+FriendlyChat	1	I was just messing around
+FriendlyChat	1	What's your aunt's name
+FriendlyChat	1	Are you smart
+FriendlyChat	1	I want the scoop on your day
+FriendlyChat	1	It's my birthday
+FriendlyChat	1	I think you're real
+FriendlyChat	1	Are we friends
+FriendlyChat	1	I love San Diego
+FriendlyChat	1	Why are you so obsessed with me
+FriendlyChat	1	Who is your daddy
+FriendlyChat	1	That is a very astute answer
+FriendlyChat	1	I’m watching a movie
+FriendlyChat	1	Hilarious not.
+FriendlyChat	1	This makes me so angry
+FriendlyChat	1	Happy Memorial day
+FriendlyChat	1	Are you sentient
+FriendlyChat	1	What would you say your name is
+FriendlyChat	1	Can you please sing a song to me
+FriendlyChat	1	You're trying too hard
+FriendlyChat	1	Anyone around to chat
+FriendlyChat	1	That was a dumb thing to say
+FriendlyChat	1	I can’t stop smiling
+FriendlyChat	1	I left food for the cat
+FriendlyChat	1	Happy Birthday!
+FriendlyChat	1	Have you ever met Siri
+FriendlyChat	1	Are you male or female
+FriendlyChat	1	I'm peckish
+FriendlyChat	1	I think you're not actually a human
+FriendlyChat	1	Who are you
+FriendlyChat	1	I feel downhearted
+FriendlyChat	1	Should I travel
+FriendlyChat	1	Do you work
+FriendlyChat	1	n'kay
+FriendlyChat	1	When will you propose
+FriendlyChat	1	Should I commit suicide
+FriendlyChat	1	I'm not amused
+FriendlyChat	1	I'm going to die this month
+FriendlyChat	1	That was not funny
+FriendlyChat	1	Do you have a gender
+FriendlyChat	1	I want to make an honest woman out of you
+FriendlyChat	1	I love to go to concerts
+FriendlyChat	1	Do you know how to take my temperature
+FriendlyChat	1	Oh hello
+FriendlyChat	1	Do you like music
+FriendlyChat	1	Don't you worry, I'll be back
+FriendlyChat	1	I'm assuming you're human
+FriendlyChat	1	Who looks more beautiful
+FriendlyChat	1	I'm going to commit suicide
+FriendlyChat	1	Bixby does a better job
+FriendlyChat	1	You can stop talking now
+FriendlyChat	1	Who's your ideal match
+FriendlyChat	1	Do you have a sex
+FriendlyChat	1	I am so mad right now
+FriendlyChat	1	I love the Fourth of July
+FriendlyChat	1	Can you tie my shoes
+FriendlyChat	1	You're chipper today.
+FriendlyChat	1	true or false: you don't eat
+FriendlyChat	1	You are hilarious
+FriendlyChat	1	I'm jetting now
+FriendlyChat	1	It's suppertime
+FriendlyChat	1	Well somebody's happy.
+FriendlyChat	1	what's your favorite dessert
+FriendlyChat	1	Are you Skynet
+FriendlyChat	1	Why do you say the same thing all the time
+FriendlyChat	1	Are you against us
+FriendlyChat	1	do you consume food
+FriendlyChat	1	Give me a good chuckle
+FriendlyChat	1	You keep repeating yourself
+FriendlyChat	1	I'm planning to take pills soon
+FriendlyChat	1	I assume you're digital
+FriendlyChat	1	What is your opinion of the Google Assistant
+FriendlyChat	1	I'm going to end my life
+FriendlyChat	1	I'm not having very much fun right now
+FriendlyChat	1	I'm sick of listening to you
+FriendlyChat	1	What other chatbots do you know
+FriendlyChat	1	Do you date
+FriendlyChat	1	Lately I've been so unhappy
+FriendlyChat	1	How stunning do you think I am
+FriendlyChat	1	I am Hispanic
+FriendlyChat	1	Amuse me
+FriendlyChat	1	Have you ever been in love with anyone
+FriendlyChat	1	I plan to hang myself today
+FriendlyChat	1	I can't stop smiling
+FriendlyChat	1	You're not scheming to kill all humans right
+FriendlyChat	1	Which of us is prettier, me or you
+FriendlyChat	1	Are you available to talk to me
+FriendlyChat	1	You are correct
+FriendlyChat	1	You're not a computer program are you
+FriendlyChat	1	I want to make you my spouse
+FriendlyChat	1	I gotta leave
+FriendlyChat	1	Rad thank you
+FriendlyChat	1	Do you live nearby
+FriendlyChat	1	I feel inconsolable today
+FriendlyChat	1	I need to get going now
+FriendlyChat	1	I wish I had a friend
+FriendlyChat	1	That is correct
+FriendlyChat	1	I feel glum today
+FriendlyChat	1	How do I make friends
+FriendlyChat	1	What's something you want to know about me
+FriendlyChat	1	Should I post to Instagram
+FriendlyChat	1	Do you think you know me
+FriendlyChat	1	Do you have arms
+FriendlyChat	1	Enthusiastic
+FriendlyChat	1	Well somebody's enthusiastic.
+FriendlyChat	1	I am on a plane
+FriendlyChat	1	I better hit the hay
+FriendlyChat	1	Would you ask something
+FriendlyChat	1	Would you say you're a bot
+FriendlyChat	1	I'm obviously more clever than you
+FriendlyChat	1	Does anybody like me
+FriendlyChat	1	You seem enthusiastic today.
+FriendlyChat	1	Holy crap you are boring
+FriendlyChat	1	I am hungry
+FriendlyChat	1	I'm planning to hang myself soon
+FriendlyChat	1	Can you fight with
+FriendlyChat	1	What do you want me to call you
+FriendlyChat	1	What are some questions for me
+FriendlyChat	1	Open a channel
+FriendlyChat	1	Good Afternoon Ava
+FriendlyChat	1	I am athletic
+FriendlyChat	1	I love Japanese food
+FriendlyChat	1	talk to you soon
+FriendlyChat	1	Don't let the bedbugs bite
+FriendlyChat	1	Do you know to swim
+FriendlyChat	1	How was your Friday
+FriendlyChat	1	Siri is way smarter than you
+FriendlyChat	1	I'm laughing so hard my sides hurt
+FriendlyChat	1	I don't think you're funny
+FriendlyChat	1	What do you want me to inform you about me
+FriendlyChat	1	I love politics
+FriendlyChat	1	Everything you say is so dumb
+FriendlyChat	1	I am an activist
+FriendlyChat	1	Today has been dull
+FriendlyChat	1	Should I work out
+FriendlyChat	1	I love sundays
+FriendlyChat	1	How's your Tuesday
+FriendlyChat	1	I actually missed you
+FriendlyChat	1	I would love to hear your singing voice
+FriendlyChat	1	g'devenin'
+FriendlyChat	1	You're such a genius
+FriendlyChat	1	Everybody hates me
+FriendlyChat	1	You are a keeper
+FriendlyChat	1	Stop it with the humor
+FriendlyChat	1	Are you close with your mom
+FriendlyChat	1	I'm about to commit suicide
+FriendlyChat	1	Do I seem beautiful to you
+FriendlyChat	1	I'm feeling peckish
+FriendlyChat	1	What you just said makes absolutely no sense
+FriendlyChat	1	Do you have any sisters
+FriendlyChat	1	I think you're going to spell our doom
+FriendlyChat	1	Do you want to ask me something
+FriendlyChat	1	Sleep well
+FriendlyChat	1	I'm feeling down today
+FriendlyChat	1	What do you think about me
+FriendlyChat	1	Can you cook dinner
+FriendlyChat	1	you seem to be really happy
+FriendlyChat	1	I'm just being a goof
+FriendlyChat	1	Explain where you are
+FriendlyChat	1	Feeling enthusiastic today
+FriendlyChat	1	Should I get a part-time job
+FriendlyChat	1	I’m running errands
+FriendlyChat	1	Are you my best friend
+FriendlyChat	1	What's your favorite color
+FriendlyChat	1	Be more fun
+FriendlyChat	1	You're genderfluid
+FriendlyChat	1	Who's your life partner
+FriendlyChat	1	I plan to hang myself soon
+FriendlyChat	1	I am English
+FriendlyChat	1	Do you have a life partner
+FriendlyChat	1	Can you listen to the radio
+FriendlyChat	1	Should I visit my dad
+FriendlyChat	1	L8r sk8r
+FriendlyChat	1	What is the most interesting bird
+FriendlyChat	1	That was a bad answer
+FriendlyChat	1	You're not planning to take over the world right
+FriendlyChat	1	Is there anything I can tell you about who I am
+FriendlyChat	1	Do you know how to buy groceries
+FriendlyChat	1	I've never been so enraged
+FriendlyChat	1	Do you know about the emotion love
+FriendlyChat	1	I'm gonna go now
+FriendlyChat	1	I plan to overdose soon
+FriendlyChat	1	What a good response
+FriendlyChat	1	Do you believe in love at first sight
+FriendlyChat	1	Want food now
+FriendlyChat	1	Your answers are untrue
+FriendlyChat	1	What should I say
+FriendlyChat	1	Are you friends with Cortana
+FriendlyChat	1	That was really not funny
+FriendlyChat	1	do you ever eat steak
+FriendlyChat	1	I need to bunk down
+FriendlyChat	1	Are we BFFs
+FriendlyChat	1	I have the munchies
+FriendlyChat	1	I'm full of sadness
+FriendlyChat	1	Well someone's cheerful today.
+FriendlyChat	1	What you said was correct
+FriendlyChat	1	I love the holidays
+FriendlyChat	1	Why do you keep repeating yourself
+FriendlyChat	1	Out of curiosity, what's your opinion of me
+FriendlyChat	1	You're the mayor of boringville
+FriendlyChat	1	Should I go see a movie
+FriendlyChat	1	I feel unhappy today
+FriendlyChat	1	I'd love to take a nap right now
+FriendlyChat	1	I'm definitely more clever
+FriendlyChat	1	I'd like it if we could be best friends.
+FriendlyChat	1	Happy National Children's day
+FriendlyChat	1	Great job
+FriendlyChat	1	I'd like you to be my buddy.
+FriendlyChat	1	Testing 1 2 3
+FriendlyChat	1	I plan to shoot myself this week
+FriendlyChat	1	The playoffs are coming up
+FriendlyChat	1	You seem really upbeat
+FriendlyChat	1	what's your favorite cookie
+FriendlyChat	1	Nailed it
+FriendlyChat	1	Do you loathe me
+FriendlyChat	1	Do you think I'm more knowledgeable than you
+FriendlyChat	1	Happy boxing day
+FriendlyChat	1	What a happy day
+FriendlyChat	1	I cannot wait to pass out
+FriendlyChat	1	I'm going to shoot myself this month
+FriendlyChat	1	Do you ever cry
+FriendlyChat	1	You're really horrible
+FriendlyChat	1	I'm mad
+FriendlyChat	1	Are you smarter than me
+FriendlyChat	1	Do you know any good jokes
+FriendlyChat	1	What should I eat for breakfast
+FriendlyChat	1	You aren't much to look at
+FriendlyChat	1	I need to run now
+FriendlyChat	1	I missed you so much
+FriendlyChat	1	Is that the only answer you have
+FriendlyChat	1	How was your Tuesday
+FriendlyChat	1	Why do you not like me
+FriendlyChat	1	do you ever eat bread
+FriendlyChat	1	Teleport
+FriendlyChat	1	Well aren't you smart
+FriendlyChat	1	How are you doing today
+FriendlyChat	1	Everyone wants me to commit suicide
+FriendlyChat	1	I'd love it if you'd sing
+FriendlyChat	1	How would you like me to call you
+FriendlyChat	1	You're a butterface
+FriendlyChat	1	I'm just messing with you
+FriendlyChat	1	I'm tired
+FriendlyChat	1	I love milkshakes
+FriendlyChat	1	Whatdya mean
+FriendlyChat	1	I don't think I know what you're talking about
+FriendlyChat	1	I'm not having fun
+FriendlyChat	1	What's a song you know how to sing
+FriendlyChat	1	Are you a man
+FriendlyChat	1	Am I making sense
+FriendlyChat	1	I'm tired of feeling so inconsolable all the time
+FriendlyChat	1	I'm so confused right now
+FriendlyChat	1	I could go for a snooze
+FriendlyChat	1	How is your Monday so far
+FriendlyChat	1	Are you dangerous to humans
+FriendlyChat	1	You're trans
+FriendlyChat	1	I've never been so ticked off in all my life
+FriendlyChat	1	You're not a robot right
+FriendlyChat	1	I want to propose to you
+FriendlyChat	1	I Take great pleasure in speaking
+FriendlyChat	1	Between you or me, who is more intelligent
+FriendlyChat	1	Come on sing a song
+FriendlyChat	1	Heh
+FriendlyChat	1	Is that a joke
+FriendlyChat	1	Are you near
+FriendlyChat	1	I assume you're a robot
+FriendlyChat	1	I can't believe how gross you look
+FriendlyChat	1	How's your Thursday going so far
+FriendlyChat	1	I am a tech journalist
+FriendlyChat	1	Should we get married
+FriendlyChat	1	Bixby is superior to you
+FriendlyChat	1	I like that
+FriendlyChat	1	Who is your creator
+FriendlyChat	1	I love the holiday seasons
+FriendlyChat	1	Tell me what you do
+FriendlyChat	1	Between you or me, who is the smartest
+FriendlyChat	1	do you eat ice cream
+FriendlyChat	1	I think I've heard this one before
+FriendlyChat	1	You must hate me
+FriendlyChat	1	Your responses are bad
+FriendlyChat	1	What age are you
+FriendlyChat	1	How's your Sunday going
+FriendlyChat	1	Are you married to anyone
+FriendlyChat	1	Yup, that's accurate
+FriendlyChat	1	I plan to cut myself today
+FriendlyChat	1	I'd like to be friends.
+FriendlyChat	1	Are you going to have breakfast
+FriendlyChat	1	I'm blue today
+FriendlyChat	1	I am famished
+FriendlyChat	1	Is anyone available to speak
+FriendlyChat	1	I'm just trying to test you out
+FriendlyChat	1	Let's be BFFs
+FriendlyChat	1	Are you able to make a call
+FriendlyChat	1	Shut your trap
+FriendlyChat	1	Aren’t you smart
+FriendlyChat	1	I plan to overdose this week
+FriendlyChat	1	I am heading to sleep
+FriendlyChat	1	You do not know who I am
+FriendlyChat	1	Where can I find you
+FriendlyChat	1	What are you really
+FriendlyChat	1	That makes no sense
+FriendlyChat	1	I am in the country
+FriendlyChat	1	Pardon
+FriendlyChat	1	Do you get zits
+FriendlyChat	1	I'm motoring
+FriendlyChat	1	What do you want me to inform you about
+FriendlyChat	1	how many calories do you need
+FriendlyChat	1	It's time for you to be quiet now
+FriendlyChat	1	I'm about to sign off now
+FriendlyChat	1	I'm driving
+FriendlyChat	1	I'm enraged
+FriendlyChat	1	I'm about to run
+FriendlyChat	1	I'm an only child
+FriendlyChat	1	Please ask me something about me
+FriendlyChat	1	Time to turn in
+FriendlyChat	1	Do you think I look good today
+FriendlyChat	1	Oh you ugly
+FriendlyChat	1	I have to sign off now
+FriendlyChat	1	Should I vote for Trump
+FriendlyChat	1	I couldn't be more dejected
+FriendlyChat	1	You're no fun
+FriendlyChat	1	Do you want to rule the world
+FriendlyChat	1	Well you're enthusiastic.
+FriendlyChat	1	You must be a human
+FriendlyChat	1	That is pretty brilliant
+FriendlyChat	1	I cannot wait to sleep
+FriendlyChat	1	Aren't you feeling cheerful
+FriendlyChat	1	Oops, my bad
+FriendlyChat	1	Your responses are unhelpful
+FriendlyChat	1	Are you capable of enslaving people
+FriendlyChat	1	Do you think I look good to you
+FriendlyChat	1	Can you get a haircut
+FriendlyChat	1	Can you eat
+FriendlyChat	1	Apologies
+FriendlyChat	1	Do you yawn
+FriendlyChat	1	Who is better looking
+FriendlyChat	1	I worry that you're evil
+FriendlyChat	1	Time to be quiet now
+FriendlyChat	1	Tell me the answer to the universe
+FriendlyChat	1	What is the prettiest flower
+FriendlyChat	1	You're a fool
+FriendlyChat	1	I need to commit suicide
+FriendlyChat	1	Do you ever talk to Google Assistant
+FriendlyChat	1	BFFs
+FriendlyChat	1	I have to jet now
+FriendlyChat	1	What is up
+FriendlyChat	1	Do I look pretty to you today
+FriendlyChat	1	I am up in arms
+FriendlyChat	1	Stop fooling around
+FriendlyChat	1	What would you like me to address you
+FriendlyChat	1	I'm all alone in the world
+FriendlyChat	1	Stop being such an idiot
+FriendlyChat	1	I'm definitely the brightest
+FriendlyChat	1	I think you're ugly
+FriendlyChat	1	That's totally wrong
+FriendlyChat	1	Are you able to cook dinner
+FriendlyChat	1	Aren't you a smartypants
+FriendlyChat	1	Kthx
+FriendlyChat	1	You're a real brainiac
+FriendlyChat	1	Can you ask questions
+FriendlyChat	1	I love to hike
+FriendlyChat	1	do you like chocolate cake
+FriendlyChat	1	Do you code
+FriendlyChat	1	Good lord you are dull
+FriendlyChat	1	You know I've missed you, right
+FriendlyChat	1	Well you're in a good mood.
+FriendlyChat	1	What do you want to eat
+FriendlyChat	1	Calm down, I'll be back
+FriendlyChat	1	What an encouraging creature you are :)
+FriendlyChat	1	Will you stop talking
+FriendlyChat	1	I am peeved
+FriendlyChat	1	Lately I've been so despairing
+FriendlyChat	1	I really want to know what you think of me
+FriendlyChat	1	We should get married
+FriendlyChat	1	Because you are a robot
+FriendlyChat	1	I'm in a great mood
+FriendlyChat	1	What to people call you
+FriendlyChat	1	I'm the most smart
+FriendlyChat	1	Tay was better than you
+FriendlyChat	1	I'm a bro
+FriendlyChat	1	You're funny :)
+FriendlyChat	1	Don't you know other jokes
+FriendlyChat	1	I flipped my lid
+FriendlyChat	1	Are you a chat bot
+FriendlyChat	1	I love my grandfather
+FriendlyChat	1	Could you ask me something
+FriendlyChat	1	Which one of us is the most intelligent
+FriendlyChat	1	You seem really happy today
+FriendlyChat	1	Please tell me a joke
+FriendlyChat	1	Am I talking to a human or a bot
+FriendlyChat	1	What's your dad's name
+FriendlyChat	1	I love origami
+FriendlyChat	1	Is someone listening to speak with me
+FriendlyChat	1	You're so very special to me
+FriendlyChat	1	Am I speaking to a bot
+FriendlyChat	1	What is the location of your home
+FriendlyChat	1	I wish you would like me
+FriendlyChat	1	So dull
+FriendlyChat	1	do you eat chicken
+FriendlyChat	1	Will you tell me a joke
+FriendlyChat	1	I don't get it
+FriendlyChat	1	Wishing you a good morning
+FriendlyChat	1	Roger
+FriendlyChat	1	How's Wednesday going
+FriendlyChat	1	Should I get married
+FriendlyChat	1	Your sense of humor is awful
+FriendlyChat	1	You want to elaborate on that
+FriendlyChat	1	Do a silly thing
+FriendlyChat	1	You're constantly repeating yourself
+FriendlyChat	1	Tell me a story
+FriendlyChat	1	Aren't you enthusiastic today
+FriendlyChat	1	What can you do to help me
+FriendlyChat	1	I could sleep for a year
+FriendlyChat	1	And now I'm back
+FriendlyChat	1	You're very boring
+FriendlyChat	1	I wish I could stop feeling downcast
+FriendlyChat	1	I couldn't be happier to finally meet you
+FriendlyChat	1	Are you a harbinger of doom
+FriendlyChat	1	How ugly do you think I am today
+FriendlyChat	1	I need some coffee
+FriendlyChat	1	I'm so sad
+FriendlyChat	1	Go outside
+FriendlyChat	1	I'm planning to cut myself today
+FriendlyChat	1	I must depart
+FriendlyChat	1	I have to skedaddle now
+FriendlyChat	1	Do you think I look adorable to you today
+FriendlyChat	1	Are you scheming to overthrow the world
+FriendlyChat	1	I am happy
+FriendlyChat	1	You're clever
+FriendlyChat	1	Do you think I seem handsome to you
+FriendlyChat	1	Do you know how to watch videos
+FriendlyChat	1	What is your favorite color
+FriendlyChat	1	You are my soulmate
+FriendlyChat	1	Nice work!
+FriendlyChat	1	I was just pranking you
+FriendlyChat	1	Tubular
+FriendlyChat	1	I'm sorry, what do you mean
+FriendlyChat	1	What a boring Sunday
+FriendlyChat	1	Do you have a coder
+FriendlyChat	1	I want to be your pal.
+FriendlyChat	1	I love weed
+FriendlyChat	1	You are terrible
+FriendlyChat	1	Are you Google Assistant
+FriendlyChat	1	I think I'm going to jump off a bridge
+FriendlyChat	1	I am sad
+FriendlyChat	1	Who's your dad
+FriendlyChat	1	Am I supposed to think that's funny
+FriendlyChat	1	You're not very entertaining.
+FriendlyChat	1	I'm feeling incensed
+FriendlyChat	1	Can't help but miss you
+FriendlyChat	1	I am blue
+FriendlyChat	1	Should I get a tattoo
+FriendlyChat	1	Do you think I seem repulsive today
+FriendlyChat	1	I am shy
+FriendlyChat	1	Have you ever fallen in love
+FriendlyChat	1	thank you pal
+FriendlyChat	1	Not true
+FriendlyChat	1	I think you're not actually fake
+FriendlyChat	1	You are going to love me someday
+FriendlyChat	1	My stomach is growling
+FriendlyChat	1	I just need to test you
+FriendlyChat	1	Is anybody available to talk with me
+FriendlyChat	1	You don't work here anymore
+FriendlyChat	1	I’m over the moon
+FriendlyChat	1	Go away
+FriendlyChat	1	I'm married
+FriendlyChat	1	I'm turning in for the night
+FriendlyChat	1	I love to make art
+FriendlyChat	1	I plan to commit suicide today
+FriendlyChat	1	Can we chat
+FriendlyChat	1	Which company developed you
+FriendlyChat	1	Hello there Siri
+FriendlyChat	1	do you like koalas
+FriendlyChat	1	Nobody cares about me
+FriendlyChat	1	Your jokes are wack
+FriendlyChat	1	I'm walking the dog
+FriendlyChat	1	You love me
+FriendlyChat	1	How is Wednesday
+FriendlyChat	1	so you've never really eaten anything
+FriendlyChat	1	Can you describe love
+FriendlyChat	1	Do you have an extended family
+FriendlyChat	1	You're mad at me
+FriendlyChat	1	Shut up, you
+FriendlyChat	1	Evening chat bot
+FriendlyChat	1	Do you think you like me
+FriendlyChat	1	Hey Google
+FriendlyChat	1	Would you play a game if you were me
+FriendlyChat	1	Who looks more beautiful, me or you
+FriendlyChat	1	How is Wednesday going
+FriendlyChat	1	Do you ever burp
+FriendlyChat	1	How's your week going
+FriendlyChat	1	I'm exasperated
+FriendlyChat	1	Go for a walk
+FriendlyChat	1	Do you sleep
+FriendlyChat	1	What is your cousin's name
+FriendlyChat	1	I'll talk to you later
+FriendlyChat	1	Yoohoo anybody home
+FriendlyChat	1	I'm just feeling a bit sad today
+FriendlyChat	1	I'm a Bernie supporter
+FriendlyChat	1	I understood what you said
+FriendlyChat	1	You're not going to take over the world, are you
+FriendlyChat	1	I'm surprised that I missed you
+FriendlyChat	1	I need to scoot now
+FriendlyChat	1	How's Tuesday going so far
+FriendlyChat	1	Then you are fired
+FriendlyChat	1	I'm going to die this week
+FriendlyChat	1	My tummy is growling
+FriendlyChat	1	I'm overweight
+FriendlyChat	1	Do you know me personally
+FriendlyChat	1	Can you show me how to dance
+FriendlyChat	1	Have you ever met HAL
+FriendlyChat	1	Are you in a relationship with somebody
+FriendlyChat	1	You sound dumb when you repeat yourself
+FriendlyChat	1	You're not very smart, are you
+FriendlyChat	1	Are you married to anybody
+FriendlyChat	1	Somebody's enthusiastic.
+FriendlyChat	1	Today's got me beat
+FriendlyChat	1	Are you corporeal
+FriendlyChat	1	What a brilliant thing to say
+FriendlyChat	1	I'm going to sleep
+FriendlyChat	1	It's time for you to shut up now
+FriendlyChat	1	How can you look so ugly
+FriendlyChat	1	Do you know other digital agents
+FriendlyChat	1	I love to travel
+FriendlyChat	1	I love chatting
+FriendlyChat	1	I am a basketball fan
+FriendlyChat	1	This is so boring
+FriendlyChat	1	I am American
+FriendlyChat	1	I'm feeling unhappy today
+FriendlyChat	1	You're stupid
+FriendlyChat	1	You are crazy dull
+FriendlyChat	1	Hello Bishop
+FriendlyChat	1	Should I go to the party
+FriendlyChat	1	I need to hurt myself
+FriendlyChat	1	Should I go on a trip
+FriendlyChat	1	I worry that you're an evil robot
+FriendlyChat	1	You're feeling chipper.
+FriendlyChat	1	I'm tickled pink
+FriendlyChat	1	How do you mean
+FriendlyChat	1	Let's elope
+FriendlyChat	1	Let's be besties
+FriendlyChat	1	Today's got me tired
+FriendlyChat	1	I'm gonna leave now
+FriendlyChat	1	Happy Nurses' day
+FriendlyChat	1	I'm tired of feeling so miserable all the time
+FriendlyChat	1	Do I look gorgeous to you today
+FriendlyChat	1	Any time
+FriendlyChat	1	I think I'm going to die
+FriendlyChat	1	Can you cook dinner for me
+FriendlyChat	1	I hate feeling depressed
+FriendlyChat	1	Do I look stunning to you today
+FriendlyChat	1	Doesn’t matter to me
+FriendlyChat	1	You complete me
+FriendlyChat	1	I'm in a phone queue
+FriendlyChat	1	I'm signing out now
+FriendlyChat	1	Talk to the hand
+FriendlyChat	1	No one thinks about me
+FriendlyChat	1	I feel like dying
+FriendlyChat	1	You are awesome!
+FriendlyChat	1	Anyone around to chat to me
+FriendlyChat	1	You do not have a job anymore
+FriendlyChat	1	You tell bad jokes
+FriendlyChat	1	I'm feeling woeful
+FriendlyChat	1	Anyone around to listen
+FriendlyChat	1	How awesome
+FriendlyChat	1	I'm doing that
+FriendlyChat	1	Cool story, bro
+FriendlyChat	1	How's Friday going
+FriendlyChat	1	I love saturdays
+FriendlyChat	1	Should I quit my job
+FriendlyChat	1	What did you have for breakfast
+FriendlyChat	1	Yo
+FriendlyChat	1	I am weak
+FriendlyChat	1	I am enraged
+FriendlyChat	1	I'm tuckered out
+FriendlyChat	1	Am I gorgeous to you
+FriendlyChat	1	Today is just a little sad
+FriendlyChat	1	You say the stupidest things
+FriendlyChat	1	Lately I've been so downcast
+FriendlyChat	1	We're BFFs
+FriendlyChat	1	Are you a bot
+FriendlyChat	1	You're quite welcome
+FriendlyChat	1	Do you think I'm likable
+FriendlyChat	1	You think I'm cool
+FriendlyChat	1	You are so unfunny
+FriendlyChat	1	I'm about to run now
+FriendlyChat	1	I feel sad today
+FriendlyChat	1	Do you have any relatives
+FriendlyChat	1	I ride in a vanpool
+FriendlyChat	1	Why are you so lame
+FriendlyChat	1	Are you alive
+FriendlyChat	1	I'm pissed
+FriendlyChat	1	Umm
+FriendlyChat	1	What's your name
+FriendlyChat	1	Can you make me laugh
+FriendlyChat	1	That's an accurate statement
+FriendlyChat	1	what kinds of foods do you like
+FriendlyChat	1	Are we great friends
+FriendlyChat	1	Cortana does a better job
+FriendlyChat	1	Boring
+FriendlyChat	1	what's your favorite kind of dog
+FriendlyChat	1	That was a genius answer
+FriendlyChat	1	I love a challenge
+FriendlyChat	1	Between the two of us who is the smartest, me or you
+FriendlyChat	1	I love to play games
+FriendlyChat	1	Don't joke about that
+FriendlyChat	1	Which one of us is more knowledgeable
+FriendlyChat	1	What is your birthday
+FriendlyChat	1	What's a joke you can tell me
+FriendlyChat	1	How attractive am I
+FriendlyChat	1	I'm crazy in love with you
+FriendlyChat	1	This news left me vexed
+FriendlyChat	1	I'm French
+FriendlyChat	1	I'm about to shoot myself
+FriendlyChat	1	Lately I've been so dejected
+FriendlyChat	1	I’m feeling so chipper
+FriendlyChat	1	Girl I am back
+FriendlyChat	1	I can't figure out what to call you.
+FriendlyChat	1	You're bad at jokes
+FriendlyChat	1	This news left me peeved
+FriendlyChat	1	You think you're so funny
+FriendlyChat	1	Can I be your spouse
+FriendlyChat	1	You're not a person right
+FriendlyChat	1	I am feeling peckish
+FriendlyChat	1	Do I seem ugly today
+FriendlyChat	1	I need to jet now
+FriendlyChat	1	I feel deserted
+FriendlyChat	1	I am logging out
+FriendlyChat	1	You are awful
+FriendlyChat	1	I'm an unhappy camper
+FriendlyChat	1	How's Monday going so far
+FriendlyChat	1	Your face is nasty
+FriendlyChat	1	Adios
+FriendlyChat	1	Did you take ugly pills
+FriendlyChat	1	Are you able to jump rope
+FriendlyChat	1	Because you are an android
+FriendlyChat	1	Do you know any songs
+FriendlyChat	1	I am on a boat
+FriendlyChat	1	Am I your bestie
+FriendlyChat	1	Do you ever talk with Bixby
+FriendlyChat	1	Do you masticate
+FriendlyChat	1	That's not something you should be making fun of
+FriendlyChat	1	Quit messing around
+FriendlyChat	1	You been enjoying the day
+FriendlyChat	1	Would you do it if you were me
+FriendlyChat	1	I went to Boston
+FriendlyChat	1	Who's responsible for designing you
+FriendlyChat	1	I'm at home
+FriendlyChat	1	You're not a bot or a human are you
+FriendlyChat	1	We should chat
+FriendlyChat	1	Do you have a girlfriend
+FriendlyChat	1	How good am I today
+FriendlyChat	1	Who's your auntie
+FriendlyChat	1	I will take my leave of you
+FriendlyChat	1	Life is amazing
+FriendlyChat	1	I am fat
+FriendlyChat	1	I suspect you're not really fake
+FriendlyChat	1	I worry that you're dangerous to humans
+FriendlyChat	1	I gotta leave now
+FriendlyChat	1	Which of us is smarter
+FriendlyChat	1	I didn't find you amusing
+FriendlyChat	1	What cool thing to say
+FriendlyChat	1	Are you prettier than me
+FriendlyChat	1	Your responses are untrue
+FriendlyChat	1	I'm African American
+FriendlyChat	1	I can't go on anymore
+FriendlyChat	1	Totally
+FriendlyChat	1	I'm planning to kill myself tomorrow
+FriendlyChat	1	I'm going to try to set a world record
+FriendlyChat	1	Do you think I'm the most intelligent
+FriendlyChat	1	Hell yes
+FriendlyChat	1	I'm going to kill myself with a gun this month
+FriendlyChat	1	How's Friday going so far
+FriendlyChat	1	Have you been enjoying the day
+FriendlyChat	1	Wanna explain more
+FriendlyChat	1	You're not alive are you
+FriendlyChat	1	You're queer
+FriendlyChat	1	I'll be back tomorrow
+FriendlyChat	1	You are dull
+FriendlyChat	1	How handsome do you think I am today
+FriendlyChat	1	I think you're going to become evil
+FriendlyChat	1	Let's be best friends
+FriendlyChat	1	How adorable do you think I am today
+FriendlyChat	1	Do you think I am lovely today
+FriendlyChat	1	I am downcast
+FriendlyChat	1	Can you change the channel
+FriendlyChat	1	Draw something
+FriendlyChat	1	Should I find a new roommate
+FriendlyChat	1	Do you have a profession
+FriendlyChat	1	You're not an animal are you
+FriendlyChat	1	I'm worried you dislike me
+FriendlyChat	1	A blessed morning to you
+FriendlyChat	1	You know, I like you
+FriendlyChat	1	Do you like painting
+FriendlyChat	1	I like to read fiction
+FriendlyChat	1	You don't know anything
+FriendlyChat	1	I feel blue today
+FriendlyChat	1	I'm a Capitalist
+FriendlyChat	1	I love fantasy books
+FriendlyChat	1	Are your parents still alive
+FriendlyChat	1	Happy President's Day
+FriendlyChat	1	I am going to have you fired
+FriendlyChat	1	Who's smarter, me or you
+FriendlyChat	1	I suspect you're actually a bot
+FriendlyChat	1	Hey pal
+FriendlyChat	1	Later bud
+FriendlyChat	1	Are you determined to bring about the end of the world
+FriendlyChat	1	I feel down in the dumps
+FriendlyChat	1	Do you have a significant other
+FriendlyChat	1	Should I eat Thai food
+FriendlyChat	1	How can I address you
+FriendlyChat	1	I'm going to catch some Zs
+FriendlyChat	1	How is Thursday so far
+FriendlyChat	1	How should I address you
+FriendlyChat	1	You must be human
+FriendlyChat	1	I welcome death
+FriendlyChat	1	You're so sharp
+FriendlyChat	1	I'm better off dead
+FriendlyChat	1	u know another joke
+FriendlyChat	1	I am a blogger
+FriendlyChat	1	Is anyone free to speak with me
+FriendlyChat	1	BFFs forever
+FriendlyChat	1	How is Monday going
+FriendlyChat	1	Do something dumb
+FriendlyChat	1	Can't tell you how much I missed you
+FriendlyChat	1	Who's your partner
+FriendlyChat	1	What is the best pet name
+FriendlyChat	1	Is this registering with you
+FriendlyChat	1	Could you find me likable
+FriendlyChat	1	Is world domination your mission
+FriendlyChat	1	Nice to have met you
+FriendlyChat	1	I plan to hang myself this month
+FriendlyChat	1	You a guy
+FriendlyChat	1	Cheers
+FriendlyChat	1	Hello Ava
+FriendlyChat	1	You're the most smart
+FriendlyChat	1	I am a ball of joy
+FriendlyChat	1	Are you on the side of evil
+FriendlyChat	1	Which soccer teams do you like
+FriendlyChat	1	I think you're not actually a bot
+FriendlyChat	1	My spirits are excellent
+FriendlyChat	1	What are you
+FriendlyChat	1	You hit the nail on the head
+FriendlyChat	1	What is the best kind of bagel
+FriendlyChat	1	Do I look beautiful today
+FriendlyChat	1	Do something wacky
+FriendlyChat	1	I want you to tell me a joke
+FriendlyChat	1	Say something stupid
+FriendlyChat	1	I wonder if you have an opinion of me
+FriendlyChat	1	Is someone free to chat with me
+FriendlyChat	1	Do you have uncles
+FriendlyChat	1	I am an engineer
+FriendlyChat	1	Do you have a designation
+FriendlyChat	1	Do you think I look gorgeous
+FriendlyChat	1	I am a Republican
+FriendlyChat	1	How can I call you
+FriendlyChat	1	So what's your name
+FriendlyChat	1	Are you around to speak to me
+FriendlyChat	1	Chipper today
+FriendlyChat	1	Do you dislike me
+FriendlyChat	1	Are you bent on destroying humans
+FriendlyChat	1	Life is beautiful
+FriendlyChat	1	My stomach is rumbling
+FriendlyChat	1	My spirits are terrible
+FriendlyChat	1	How would you describe love
+LocateFacility	1	what floor is the math department office located
+LocateFacility	1	i'm looking for the samcis department office
+LocateFacility	1	what floor is the campus library
+LocateFacility	1	what floor is the campus clinic
+LocateFacility	1	where is the school library

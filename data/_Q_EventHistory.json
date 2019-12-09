@@ -1,0 +1,643 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "In 1911, Rev Fr Séraphin Devesse, CICM, founded a one-room elementary school in Baguio for ten local boys. From these humble origins, Saint Louis School began.",
+      "source": "History KB.xlsx",
+      "questions": [
+        "When was SLU established?",
+        "When was Saint Louis University established?",
+        "When was Saint Louis University started?",
+        "When was SLU started?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 2,
+      "answer": "In 1915, the intermediate grades and a trade school were started under the guidance of Fr. Florimond Carlu, CICM.&lt;/b&gt;",
+      "source": "History KB.xlsx",
+      "questions": [
+        "When Intermediate grade started in Saint Louis University?",
+        "When Intermediate grade started in SLU?",
+        "Intermediate grade",
+        "SLU intermediate grade",
+        "Saint Louis University intermediate grade "
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 3,
+      "answer": "In 1921, the high school was inaugurated.",
+      "source": "History KB.xlsx",
+      "questions": [
+        "When High school started in Saint Louis University?",
+        "When High school started in SLU?",
+        "High school",
+        "SLU high school",
+        "Saint Louis University high school "
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 4,
+      "answer": "In 1952, college-level courses in the Liberal Arts and Commerce were offered, and Saint Louis College had its first Rector. Other courses and further developments soon followed, under the guidance of the following CICM Rectors/Presidents:&nbsp;\n\n- 1952-54 Fr. Gerard Decaestecker&nbsp;\n\n- 1954-62 Fr. Albert Van Overbeke&nbsp;\n\n- 1962-64 Fr. Gerard Linssen&nbsp;\n\n- 1964-76 Fr. Paul Zwaenepoel&nbsp;\n\n- 1976-83 Fr. Ghisleen De Vos&nbsp;\n\n- 1983-96 Fr. Joseph Van den Daelen&nbsp;\n\n- 1996-2005 Fr. Paul Van Parijs&nbsp;\n\n- 2005-2015 Fr. Jessie M. Hechanova&nbsp;\n\n- 2015-present Fr. Gilbert B. Sales",
+      "source": "History KB.xlsx",
+      "questions": [
+        "When College started in Saint Louis University?",
+        "When College started in SLU?",
+        "College",
+        "SLU college",
+        "Saint Louis University college "
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 5,
+      "answer": "In 1955, the graduate-level programs of Saint Louis College were granted recognition, but the real turning point came on 13 May 1963, when Saint Louis College was conferred University status by the Philippine Government.",
+      "source": "History KB.xlsx",
+      "questions": [
+        "Graduate program",
+        "When Graduate program started in Saint Louis University?",
+        "SLU graduate program",
+        "Saint Louis University graduate program "
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 6,
+      "answer": "Saint Louis University is an excellent missionary and transformative educational institution that is zealous in developing human resources to be creative, competent, socially involved, and imbued with the Christian Spirit.",
+      "source": "History KB.xlsx",
+      "questions": [
+        "Vision and Mission",
+        "SLU vision",
+        "SLU mission",
+        "What is Saint Louis University  vision and mission.",
+        "Saint Louis University vision",
+        "Saint Louis University mission ",
+        "SLU vision and mission",
+        "Saint Louis University vision and mission "
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 16,
+      "answer": "Lyrics: Fr. Jan Augustijns, CICM \n\nMelody: Prof. Macario G. Fronda\n\nLet’s all sing a song \n\nGay and cheerful, \n\nBursting forth from our young \n\nAnd joyous hearts. \n\nFor our life is so bright \n\nFor we study right \n\nWe choose a smile for our part \n\nHere we are, students of Saint Louis, \n\nThat is why we are so proud, \n\nWe’ll always stand in defense for it \n\nFor it makes us brave and fit. \n\nChorus :\n\nTraining our body and mind \n\nThat in the school we find, \n\nBright future smiles on us \n\nLet’s be ready thus, \n\nWe’ll deserve well of our land, \n\nGo ever hand in hand \n\nFor God’s and country’s sake. \n\nThis is the pledge we make\n",
+      "source": "History KB.xlsx",
+      "questions": [
+        "SLU Hymn",
+        "Saint Louis University Hymn ",
+        "University Hymn"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 20,
+      "answer": "September 23-28",
+      "source": "Editorial",
+      "questions": [
+        "When is extension and outreach week?",
+        "Date of extension and outreach week?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 21,
+      "answer": "October 5",
+      "source": "Editorial",
+      "questions": [
+        "When is the intramural?",
+        "Intramural",
+        "SLU intramural",
+        "Saint Louis University intramural "
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 22,
+      "answer": "November 25 - December 1",
+      "source": "Editorial",
+      "questions": [
+        "When is  University foundation and anniversary week?",
+        "When is foundation week?",
+        "When is SLU foundation week?",
+        "Foundation week",
+        "Saint Louis University Foundation week "
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 23,
+      "answer": "November 28",
+      "source": "Editorial",
+      "questions": [
+        "When is CICM Day?",
+        "CICM day",
+        "Saint Louis University CICM day ",
+        "SLU CICM day"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 24,
+      "answer": "December 1",
+      "source": "Editorial",
+      "questions": [
+        "When is  handog ng slu sa baguio and lantern parade?",
+        "When is lantern parade?",
+        "Lantern parade"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 25,
+      "answer": "January 23-24",
+      "source": "Editorial",
+      "questions": [
+        "When is Baccalaureate Mass and Graduation Exercises?",
+        "Graduation exercise",
+        "Graduation day",
+        "When is the graduation?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 26,
+      "answer": "February 25",
+      "source": "Editorial",
+      "questions": [
+        "When is EDSA People Power Revolution?",
+        "EDSA People Power Revolution",
+        "EDSA"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 27,
+      "answer": "April 13 - May 9",
+      "source": "Editorial",
+      "questions": [
+        "When is Research and Inventions Month?",
+        "Research and inventions month"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 28,
+      "answer": "April 30",
+      "source": "Editorial",
+      "questions": [
+        "When is Gawad Awards for Students?",
+        "Gawad awards",
+        "Gaward awards for students"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 29,
+      "answer": "May 4 - 9",
+      "source": "Editorial",
+      "questions": [
+        "When is Research and Inventions Exhibit?",
+        "Research and inventions exhibit",
+        "Research exhibit"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 30,
+      "answer": "May 29, June 1 - 2",
+      "source": "Editorial",
+      "questions": [
+        "Short Term Start of Classes",
+        "Short term enrollment",
+        "Short term registration"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 31,
+      "answer": "July 15, 2020",
+      "source": "Editorial",
+      "questions": [
+        "When is Cordillera Day?",
+        "Cordillera day"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 32,
+      "answer": "August 21",
+      "source": "Editorial",
+      "questions": [
+        "When is Ninoy Aquino Day?",
+        "Ninoy Aquino day"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 33,
+      "answer": "August 26",
+      "source": "Editorial",
+      "questions": [
+        "When is National Heroes` Day?",
+        "National heroes day",
+        "When is national heroes day?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 34,
+      "answer": "November 1",
+      "source": "Editorial",
+      "questions": [
+        "When is All Saints' Day?",
+        "All Saints' Day",
+        "When is all saints day?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 35,
+      "answer": "November 30",
+      "source": "Editorial",
+      "questions": [
+        "When is Bonifacio Day?",
+        "Bonifacio day"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 36,
+      "answer": "December 16",
+      "source": "Editorial",
+      "questions": [
+        "When is Christmas SALO-SALO?",
+        "Xmas salo salo",
+        "Christmas salo salo",
+        "Xmas salo-salo",
+        "Christmas salo-salo"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 37,
+      "answer": "December 25",
+      "source": "Editorial",
+      "questions": [
+        "When is Christmas Day",
+        "Xmas day",
+        "Christmas",
+        "Xmas"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 38,
+      "answer": "January 1",
+      "source": "Editorial",
+      "questions": [
+        "When is New Year's Day?",
+        "New year",
+        "When is new year?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 39,
+      "answer": "January 25",
+      "source": "Editorial",
+      "questions": [
+        "When is Chinese New Year?",
+        "Chinese new year"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 40,
+      "answer": "April 6 - 11",
+      "source": "Editorial",
+      "questions": [
+        "When is Holy Week?",
+        "Holy week"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 41,
+      "answer": "May 1",
+      "source": "Editorial",
+      "questions": [
+        "When is Labor Day?",
+        "Labor day"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 42,
+      "answer": "June 12",
+      "source": "Editorial",
+      "questions": [
+        "When is Independence Day?",
+        "Independence day"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 43,
+      "answer": "September 17 - 20, 2020",
+      "source": "Editorial",
+      "questions": [
+        "Preliminary Exams",
+        "When is the prelim exams?",
+        "Prelims"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 44,
+      "answer": "November 5 - 8, 2020",
+      "source": "Editorial",
+      "questions": [
+        "Midterm Exams",
+        "When is the midterm exams?",
+        "Finals"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 45,
+      "answer": "December 10 - 14, 2020",
+      "source": "Editorial",
+      "questions": [
+        "Final Exams",
+        "When is the final exams?",
+        "Finals"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	EventHistory	110	23.30909	57	4	12.13135
+1	FriendlyChat	9777	22.89035	81	1	8.79089
+2	LocateFacility	25	34.36	84	12	16.92602
+ 	__ALL__	9912	22.92393	84	1	8.88099

@@ -1,0 +1,415 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "samcis-bot",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "LocateFacility"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Date",
+      "roles": []
+    },
+    {
+      "name": "FromLocation",
+      "roles": []
+    },
+    {
+      "name": "ToLocation",
+      "roles": []
+    }
+  ],
+  "composites": [
+    {
+      "name": "Location",
+      "children": [
+        "ToLocation",
+        "FromLocation"
+      ],
+      "roles": []
+    }
+  ],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "campus clinic location",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 7,
+          "endPos": 12
+        }
+      ]
+    },
+    {
+      "text": "can you give me a path to campus clinic",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 33,
+          "endPos": 38
+        }
+      ]
+    },
+    {
+      "text": "floor of guidance office",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 9,
+          "endPos": 16
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 18,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "i'm currently at main gate of the campus, can you give me instructions to go to sao.",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "FromLocation",
+          "startPos": 17,
+          "endPos": 20
+        },
+        {
+          "entity": "FromLocation",
+          "startPos": 22,
+          "endPos": 25
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 80,
+          "endPos": 82
+        }
+      ]
+    },
+    {
+      "text": "i'm currently at the lobby can you give me the shortest way to the campus library",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "FromLocation",
+          "startPos": 21,
+          "endPos": 25
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 74,
+          "endPos": 80
+        }
+      ]
+    },
+    {
+      "text": "i'm looking for the samcis department office",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 27,
+          "endPos": 36
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 38,
+          "endPos": 43
+        }
+      ]
+    },
+    {
+      "text": "library location in the campus",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "location of guidance office",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 12,
+          "endPos": 19
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 21,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "location of math department office",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 12,
+          "endPos": 15
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 17,
+          "endPos": 26
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 28,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "location of student affair office",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 12,
+          "endPos": 18
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 20,
+          "endPos": 25
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 27,
+          "endPos": 32
+        }
+      ]
+    },
+    {
+      "text": "what floor is campus canteen",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 21,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "what floor is sao",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 14,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "what floor is student affair office",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 14,
+          "endPos": 20
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 22,
+          "endPos": 27
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 29,
+          "endPos": 34
+        }
+      ]
+    },
+    {
+      "text": "what floor is the campus clinic",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 25,
+          "endPos": 30
+        }
+      ]
+    },
+    {
+      "text": "what floor is the campus library",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 25,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "what floor is the library",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 18,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "what floor is the math department office located",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 18,
+          "endPos": 21
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 23,
+          "endPos": 32
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 34,
+          "endPos": 39
+        }
+      ]
+    },
+    {
+      "text": "what floor of the campus is the cashier is located",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 32,
+          "endPos": 38
+        }
+      ]
+    },
+    {
+      "text": "where is sao",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 9,
+          "endPos": 11
+        }
+      ]
+    },
+    {
+      "text": "where is the campus canteen",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 13,
+          "endPos": 18
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 20,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "where is the campus library",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 20,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "where is the guidance office",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 13,
+          "endPos": 20
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 22,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "where is the library",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 13,
+          "endPos": 19
+        }
+      ]
+    },
+    {
+      "text": "where is the school library",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 20,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "where is the student affair office",
+      "intent": "LocateFacility",
+      "entities": [
+        {
+          "entity": "ToLocation",
+          "startPos": 13,
+          "endPos": 19
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 21,
+          "endPos": 26
+        },
+        {
+          "entity": "ToLocation",
+          "startPos": 28,
+          "endPos": 33
+        }
+      ]
+    }
+  ],
+  "settings": []
+}

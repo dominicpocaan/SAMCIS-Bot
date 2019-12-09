@@ -1,0 +1,4 @@
+Label	LabelName	Samples
+0	EventHistory	110
+1	FriendlyChat	9780
+2	LocateFacility	25

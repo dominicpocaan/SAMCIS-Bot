@@ -1,0 +1,49 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "LocateFacility",
+      "appId": "b78aae8f-75ca-4700-ba29-c207063da627",
+      "authoringKey": "9ff127e38d764dfc92189d7fa74e257c",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "samcis-bot",
+      "id": "1"
+    },
+    {
+      "intentName": "FriendlyChat",
+      "includePrompts": true,
+      "kbId": "e25a5174-1330-4b68-a832-7ebde1d09084",
+      "subscriptionKey": "84765f24d4b149e5827cda45ee6c9ba0",
+      "type": "qna",
+      "name": "friendly-kb",
+      "id": "2"
+    },
+    {
+      "intentName": "EventHistory",
+      "includePrompts": true,
+      "kbId": "c7e7254c-114e-491a-8320-43a4d08775fd",
+      "subscriptionKey": "84765f24d4b149e5827cda45ee6c9ba0",
+      "type": "qna",
+      "name": "history-kb",
+      "id": "3"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3"
+  ],
+  "appId": "0924d46f-efca-4bb9-827e-c239ade5c623",
+  "authoringKey": "9ff127e38d764dfc92189d7fa74e257c",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "dispatch-bot"
+}
